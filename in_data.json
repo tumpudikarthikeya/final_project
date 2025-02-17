@@ -1,0 +1,4107 @@
+{
+    "proliferative_diabetic": { 
+        "Monday": {
+            "breakfast": {
+                "veg": [
+                    "Besan Chilla with Mint Chutney",
+                    "Oats Upma with Mixed Vegetables",
+                    "Ragi Idli with Sambar",
+                    "Moong Dal Cheela",
+                    "Quinoa Poha"
+                ],
+                "non-veg": [
+                    "Egg White Omelet with Spinach",
+                    "Smoked Salmon on Whole Wheat Toast",
+                    "Chicken Keema Upma",
+                    "Egg Bhurji with Millets",
+                    "Lean Turkey Scramble"
+                ],
+                "vegan": [
+                    "Chia Pudding with Almond Milk and Berries",
+                    "Vegetable Poha with Tofu",
+                    "Oats Dosa with Mint Chutney",
+                    "Sprouted Moong Salad",
+                    "Quinoa Upma"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Chana",
+                    "Cucumber with Mint Raita",
+                    "Almonds (7-8 pieces)",
+                    "Sprouted Moong",
+                    "Roasted Makhana"
+                ],
+                "non-veg": [
+                    "Boiled Egg White",
+                    "Grilled Chicken Strips",
+                    "Hung Curd with Almonds",
+                    "Fish Cutlet",
+                    "Roasted Pumpkin Seeds"
+                ],
+                "vegan": [
+                    "Handful of Mixed Nuts (Almonds, Walnuts)",
+                    "Roasted Chickpeas",
+                    "Carrot and Cucumber Sticks with Hummus",
+                    "Fruit Salad with Guava",
+                    "Sunflower Seeds"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Dal Khichdi with Vegetable Raita",
+                    "Brown Rice with Rajma Curry",
+                    "Vegetable Daliya",
+                    "Quinoa Pulao",
+                    "Millet Khichdi"
+                ],
+                "non-veg": [
+                    "Grilled Chicken Salad",
+                    "Baked Fish with Brown Rice",
+                    "Lean Meat Daliya",
+                    "Egg White Curry",
+                    "Tandoori Chicken with Quinoa"
+                ],
+                "vegan": [
+                    "Vegetable Brown Rice Pulao",
+                    "Quinoa Salad with Roasted Vegetables",
+                    "Mixed Dal Soup with Whole Wheat Bread",
+                    "Stuffed Capsicum with Millet",
+                    "Vegetable Barley Soup"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Roasted Peanuts",
+                    "Buttermilk",
+                    "Apple Slices",
+                    "Vegetable Soup",
+                    "Roasted Chana"
+                ],
+                "non-veg": [
+                    "Chicken Soup",
+                    "Tuna Salad",
+                    "Boiled Egg",
+                    "Grilled Prawns",
+                    "Protein Smoothie"
+                ],
+                "vegan": [
+                    "Coconut Water with Chia Seeds",
+                    "Steamed Edamame",
+                    "Masala Roasted Peanuts",
+                    "Apple Slices with Almond Butter",
+                    "Homemade Protein Bar"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Daliya",
+                    "Moong Dal Khichdi",
+                    "Quinoa Vegetable Curry",
+                    "Millet Roti with Dal",
+                    "Brown Rice with Vegetable Curry"
+                ],
+                "non-veg": [
+                    "Baked Cod with Vegetable Stir Fry",
+                    "Lean Mutton Curry",
+                    "Chicken Pulao",
+                    "Fish Moilee",
+                    "Turkey Meatballs"
+                ],
+                "vegan": [
+                    "Stir-Fried Vegetables with Tofu",
+                    "Lentil Curry with Brown Rice",
+                    "Sweet Potato Mash with Grilled Veggies",
+                    "Stuffed Bell Peppers with Millet",
+                    "Vegetable Stir Fry with Soba Noodles"
+                ]
+            }
+        },
+        "Tuesday": {
+            "breakfast": {
+                "veg": [
+                    "Ragi Dosa with Coconut Chutney",
+                    "Kodo Millet Porridge with Almonds",
+                    "Vegetable Poha with Tofu",
+                    "Bajra Upma with Vegetables",
+                    "Moong Dal Cheela"
+                ],
+                "non-veg": [
+                    "Scrambled Eggs with Tomato",
+                    "Grilled Chicken with Quinoa",
+                    "Chicken Keema Upma",
+                    "Poached Eggs with Spinach",
+                    "Egg Bhurji with Kale"
+                ],
+                "vegan": [
+                    "Millet Porridge with Chia Seeds",
+                    "Chia Pudding with Almond Milk",
+                    "Tofu Scramble with Kale",
+                    "Quinoa Upma with Vegetables",
+                    "Oats Pancakes with Blueberries"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Almonds (7-8 pieces)",
+                    "Roasted Makhana",
+                    "Carrot Sticks with Lemon",
+                    "Sprouted Moong",
+                    "Roasted Chana"
+                ],
+                "non-veg": [
+                    "Hard-Boiled Eggs",
+                    "Grilled Turkey Slices",
+                    "Chicken Salad with Avocado",
+                    "Tuna Salad",
+                    "Fish Cutlet"
+                ],
+                "vegan": [
+                    "Mixed Nuts (Almonds, Walnuts, Cashews)",
+                    "Sliced Pear with Lemon",
+                    "Roasted Pumpkin Seeds",
+                    "Cucumber and Carrot Sticks with Hummus",
+                    "Fruit Salad with Guava"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Sambar with Millet",
+                    "Quinoa Pulao with Spinach",
+                    "Moong Dal Khichdi with Vegetable Raita",
+                    "Vegetable Barley Soup",
+                    "Kodo Millet Porridge"
+                ],
+                "non-veg": [
+                    "Grilled Salmon with Steamed Veggies",
+                    "Baked Fish with Brown Rice",
+                    "Grilled Chicken with Quinoa",
+                    "Chicken Stew with Sweet Potato",
+                    "Baked Turkey with Vegetables"
+                ],
+                "vegan": [
+                    "Chickpea and Avocado Salad",
+                    "Vegetable Brown Rice Pulao",
+                    "Tofu and Veggie Stir Fry with Brown Rice",
+                    "Quinoa Salad with Roasted Vegetables",
+                    "Mixed Dal Soup with Whole Wheat Bread"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Roasted Peanuts",
+                    "Apple Slices",
+                    "Fresh Coconut Water",
+                    "Vegetable Soup",
+                    "Roasted Chana"
+                ],
+                "non-veg": [
+                    "Tuna Lettuce Wraps",
+                    "Grilled Chicken Skewers",
+                    "Boiled Egg with Paprika",
+                    "Chicken Soup",
+                    "Grilled Prawns"
+                ],
+                "vegan": [
+                    "Steamed Edamame",
+                    "Masala Roasted Peanuts",
+                    "Apple Slices with Almond Butter",
+                    "Coconut Water with Chia Seeds",
+                    "Roasted Sunflower Seeds"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Moong Dal Soup with Ragi Roti",
+                    "Quinoa Vegetable Curry",
+                    "Vegetable Stir Fry with Bajra Roti",
+                    "Millet Roti with Spinach",
+                    "Brown Rice with Vegetable Curry"
+                ],
+                "non-veg": [
+                    "Grilled Mutton with Roasted Vegetables",
+                    "Chicken Pulao",
+                    "Fish Moilee with Brown Rice",
+                    "Grilled Turkey with Veggies",
+                    "Prawns with Garlic Butter"
+                ],
+                "vegan": [
+                    "Sweet Potato and Lentil Stew",
+                    "Stuffed Bell Peppers with Millet",
+                    "Vegan Spinach Soup with Quinoa",
+                    "Vegetable Stir Fry with Soba Noodles",
+                    "Lentil Curry with Brown Rice"
+                ]
+            }
+        },
+        "Wednesday": {
+            "breakfast": {
+                "veg": [
+                    "Kodo Millet Upma",
+                    "Methi Paratha with Curd",
+                    "Ragi Idli with Sambar",
+                    "Vegetable Poha",
+                    "Quinoa Poha"
+                ],
+                "non-veg": [
+                    "Scrambled Eggs with Spinach",
+                    "Grilled Chicken Sausage with Vegetables",
+                    "Fish Curry with Barley",
+                    "Poached Eggs on Multigrain Toast",
+                    "Lean Meat Cutlets with Millet"
+                ],
+                "vegan": [
+                    "Millet Porridge with Chia Seeds",
+                    "Red Rice Idli with Sambar",
+                    "Sprouted Moong Salad with Lemon",
+                    "Avocado Toast on Whole Grain Bread",
+                    "Tofu Scramble with Kale"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Makhana",
+                    "Almonds (7-8 pieces)",
+                    "Carrot Sticks with Lemon",
+                    "Roasted Chana",
+                    "Cucumber with Mint Raita"
+                ],
+                "non-veg": [
+                    "Grilled Fish Fingers",
+                    "Hard-Boiled Eggs",
+                    "Tuna Salad",
+                    "Grilled Chicken Skewers",
+                    "Chicken Broth"
+                ],
+                "vegan": [
+                    "Mixed Nuts (Almonds, Walnuts)",
+                    "Carrot and Cucumber Sticks with Hummus",
+                    "Sliced Pear with Lemon",
+                    "Roasted Pumpkin Seeds",
+                    "Fresh Guava"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Quinoa Pulao with Spinach",
+                    "Vegetable Khichdi with Vegetable Raita",
+                    "Methi Thepla with Vegetable Raita",
+                    "Quinoa with Stir-Fried Veggies",
+                    "Vegetable Sambar with Millet"
+                ],
+                "non-veg": [
+                    "Grilled Chicken Salad",
+                    "Grilled Salmon with Steamed Veggies",
+                    "Fish Curry with Brown Rice",
+                    "Lean Meat Daliya",
+                    "Chicken Stew with Sweet Potato"
+                ],
+                "vegan": [
+                    "Tofu and Veggie Stir Fry with Brown Rice",
+                    "Zucchini Stir Fry with Quinoa",
+                    "Stuffed Bell Peppers with Millet",
+                    "Mixed Dal Soup with Whole Wheat Bread",
+                    "Chickpea Salad with Olive Oil"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Roasted Peanuts",
+                    "Vegetable Soup",
+                    "Apple Slices",
+                    "Fresh Coconut Water",
+                    "Roasted Chana"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Bell Peppers",
+                    "Boiled Egg with Black Salt",
+                    "Fish Salad with Olive Oil Dressing",
+                    "Chicken Broth with Herbs",
+                    "Grilled Prawns"
+                ],
+                "vegan": [
+                    "Steamed Edamame",
+                    "Masala Roasted Peanuts",
+                    "Apple Slices with Almond Butter",
+                    "Coconut Water with Chia Seeds",
+                    "Homemade Protein Bar"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir Fry with Bajra Roti",
+                    "Moong Dal Khichdi",
+                    "Brown Rice with Vegetable Curry",
+                    "Quinoa Vegetable Curry",
+                    "Millet Roti with Dal"
+                ],
+                "non-veg": [
+                    "Grilled Mutton with Roasted Vegetables",
+                    "Chicken Pulao",
+                    "Fish Moilee with Brown Rice",
+                    "Grilled Turkey with Veggies",
+                    "Prawns with Garlic Butter"
+                ],
+                "vegan": [
+                    "Sweet Potato and Lentil Stew",
+                    "Vegan Spinach Soup with Quinoa",
+                    "Stuffed Bell Peppers with Millet",
+                    "Vegetable Stir Fry with Soba Noodles",
+                    "Lentil Curry with Brown Rice"
+                ]
+            }
+        },
+        "Thursday": {
+            "breakfast": {
+                "veg": [
+                    "Methi Paratha with Curd",
+                    "Ragi Dosa with Coconut Chutney",
+                    "Barley Upma with Vegetables",
+                    "Kodo Millet Porridge",
+                    "Vegetable Poha"
+                ],
+                "non-veg": [
+                    "Poached Eggs with Spinach",
+                    "Scrambled Eggs with Tomato",
+                    "Grilled Chicken with Quinoa",
+                    "Chicken Keema Upma",
+                    "Egg Bhurji with Kale"
+                ],
+                "vegan": [
+                    "Chia Pudding with Almond Milk and Berries",
+                    "Avocado Toast on Multigrain Bread",
+                    "Millet and Spinach Smoothie",
+                    "Oats and Banana Pancakes",
+                    "Quinoa Upma with Tofu"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Chana",
+                    "Almonds (7-8 pieces)",
+                    "Carrot Sticks with Lemon",
+                    "Roasted Makhana",
+                    "Sliced Papaya"
+                ],
+                "non-veg": [
+                    "Boiled Egg White",
+                    "Grilled Chicken Strips",
+                    "Hung Curd with Almonds",
+                    "Fish Cutlet",
+                    "Roasted Pumpkin Seeds"
+                ],
+                "vegan": [
+                    "Handful of Mixed Nuts (Almonds, Walnuts)",
+                    "Roasted Chickpeas",
+                    "Carrot and Cucumber Sticks with Hummus",
+                    "Fruit Salad with Guava",
+                    "Sunflower Seeds"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Sambar with Millet",
+                    "Quinoa Pulao with Spinach",
+                    "Moong Dal Khichdi with Vegetable Raita",
+                    "Vegetable Barley Soup",
+                    "Kodo Millet Porridge"
+                ],
+                "non-veg": [
+                    "Grilled Salmon with Steamed Veggies",
+                    "Baked Fish with Brown Rice",
+                    "Grilled Chicken with Quinoa",
+                    "Chicken Stew with Sweet Potato",
+                    "Baked Turkey with Vegetables"
+                ],
+                "vegan": [
+                    "Chickpea and Avocado Salad",
+                    "Vegetable Brown Rice Pulao",
+                    "Tofu and Veggie Stir Fry with Brown Rice",
+                    "Quinoa Salad with Roasted Vegetables",
+                    "Mixed Dal Soup with Whole Wheat Bread"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Roasted Peanuts",
+                    "Apple Slices",
+                    "Fresh Coconut Water",
+                    "Vegetable Soup",
+                    "Roasted Chana"
+                ],
+                "non-veg": [
+                    "Tuna Lettuce Wraps",
+                    "Grilled Chicken Skewers",
+                    "Boiled Egg with Paprika",
+                    "Chicken Soup",
+                    "Grilled Prawns"
+                ],
+                "vegan": [
+                    "Steamed Edamame",
+                    "Masala Roasted Peanuts",
+                    "Apple Slices with Almond Butter",
+                    "Coconut Water with Chia Seeds",
+                    "Roasted Sunflower Seeds"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Daliya",
+                    "Moong Dal Khichdi",
+                    "Quinoa Vegetable Curry",
+                    "Millet Roti with Dal",
+                    "Brown Rice with Vegetable Curry"
+                ],
+                "non-veg": [
+                    "Baked Cod with Vegetable Stir Fry",
+                    "Lean Mutton Curry",
+                    "Chicken Pulao",
+                    "Fish Moilee",
+                    "Turkey Meatballs"
+                ],
+                "vegan": [
+                    "Stir-Fried Vegetables with Tofu",
+                    "Lentil Curry with Brown Rice",
+                    "Sweet Potato Mash with Grilled Veggies",
+                    "Stuffed Bell Peppers with Millet",
+                    "Vegetable Stir Fry with Soba Noodles"
+                ]
+            }
+        },
+        "Friday": {
+            "breakfast": {
+                "veg": [
+                    "Kodo Millet Upma with Vegetables",
+                    "Bajra Idli with Coconut Chutney",
+                    "Ragi Dosa with Coconut Chutney",
+                    "Moong Dal Cheela",
+                    "Quinoa Porridge"
+                ],
+                "non-veg": [
+                    "Scrambled Eggs with Spinach",
+                    "Grilled Chicken Sausage with Vegetables",
+                    "Fish Curry with Barley",
+                    "Poached Eggs on Multigrain Toast",
+                    "Lean Meat Cutlets with Millet"
+                ],
+                "vegan": [
+                    "Chia Pudding with Almond Milk and Berries",
+                    "Vegetable Poha with Tofu",
+                    "Oats Dosa with Mint Chutney",
+                    "Sprouted Moong Salad",
+                    "Quinoa Upma"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Chana",
+                    "Cucumber with Mint Raita",
+                    "Almonds (7-8 pieces)",
+                    "Sprouted Moong",
+                    "Roasted Makhana"
+                ],
+                "non-veg": [
+                    "Boiled Egg White",
+                    "Grilled Chicken Strips",
+                    "Hung Curd with Almonds",
+                    "Fish Cutlet",
+                    "Roasted Pumpkin Seeds"
+                ],
+                "vegan": [
+                    "Handful of Mixed Nuts (Almonds, Walnuts)",
+                    "Roasted Chickpeas",
+                    "Carrot and Cucumber Sticks with Hummus",
+                    "Fruit Salad with Guava",
+                    "Sunflower Seeds"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Dal Khichdi with Vegetable Raita",
+                    "Brown Rice with Rajma Curry",
+                    "Vegetable Daliya",
+                    "Quinoa Pulao",
+                    "Millet Khichdi"
+                ],
+                "non-veg": [
+                    "Grilled Chicken Salad",
+                    "Baked Fish with Brown Rice",
+                    "Lean Meat Daliya",
+                    "Egg White Curry",
+                    "Tandoori Chicken with Quinoa"
+                ],
+                "vegan": [
+                    "Vegetable Brown Rice Pulao",
+                    "Quinoa Salad with Roasted Vegetables",
+                    "Mixed Dal Soup with Whole Wheat Bread",
+                    "Stuffed Capsicum with Millet",
+                    "Vegetable Barley Soup"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Roasted Peanuts",
+                    "Buttermilk",
+                    "Apple Slices",
+                    "Vegetable Soup",
+                    "Roasted Chana"
+                ],
+                "non-veg": [
+                    "Chicken Soup",
+                    "Tuna Salad",
+                    "Boiled Egg",
+                    "Grilled Prawns",
+                    "Protein Smoothie"
+                ],
+                "vegan": [
+                    "Coconut Water with Chia Seeds",
+                    "Steamed Edamame",
+                    "Masala Roasted Peanuts",
+                    "Apple Slices with Almond Butter",
+                    "Homemade Protein Bar"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Daliya",
+                    "Moong Dal Khichdi",
+                    "Quinoa Vegetable Curry",
+                    "Millet Roti with Dal",
+                    "Brown Rice with Vegetable Curry"
+                ],
+                "non-veg": [
+                    "Baked Cod with Vegetable Stir Fry",
+                    "Lean Mutton Curry",
+                    "Chicken Pulao",
+                    "Fish Moilee",
+                    "Turkey Meatballs"
+                ],
+                "vegan": [
+                    "Stir-Fried Vegetables with Tofu",
+                    "Lentil Curry with Brown Rice",
+                    "Sweet Potato Mash with Grilled Veggies",
+                    "Stuffed Bell Peppers with Millet",
+                    "Vegetable Stir Fry with Soba Noodles"
+                ]
+            }
+        },
+        "Saturday": {
+            "breakfast": {
+                "veg": [
+                    "Ragi Dosa with Coconut Chutney",
+                    "Kodo Millet Porridge with Almonds",
+                    "Vegetable Poha with Tofu",
+                    "Bajra Upma with Vegetables",
+                    "Moong Dal Cheela"
+                ],
+                "non-veg": [
+                    "Scrambled Eggs with Tomato",
+                    "Grilled Chicken with Quinoa",
+                    "Chicken Keema Upma",
+                    "Poached Eggs with Spinach",
+                    "Egg Bhurji with Kale"
+                ],
+                "vegan": [
+                    "Millet Porridge with Chia Seeds",
+                    "Chia Pudding with Almond Milk",
+                    "Tofu Scramble with Kale",
+                    "Quinoa Upma with Vegetables",
+                    "Oats Pancakes with Blueberries"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Almonds (7-8 pieces)",
+                    "Roasted Makhana",
+                    "Carrot Sticks with Lemon",
+                    "Sprouted Moong",
+                    "Roasted Chana"
+                ],
+                "non-veg": [
+                    "Hard-Boiled Eggs",
+                    "Grilled Turkey Slices",
+                    "Chicken Salad with Avocado",
+                    "Tuna Salad",
+                    "Fish Cutlet"
+                ],
+                "vegan": [
+                    "Mixed Nuts (Almonds, Walnuts, Cashews)",
+                    "Sliced Pear with Lemon",
+                    "Roasted Pumpkin Seeds",
+                    "Cucumber and Carrot Sticks with Hummus",
+                    "Fruit Salad with Guava"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Sambar with Millet",
+                    "Quinoa Pulao with Spinach",
+                    "Moong Dal Khichdi with Vegetable Raita",
+                    "Vegetable Barley Soup",
+                    "Kodo Millet Porridge"
+                ],
+                "non-veg": [
+                    "Grilled Salmon with Steamed Veggies",
+                    "Baked Fish with Brown Rice",
+                    "Grilled Chicken with Quinoa",
+                    "Chicken Stew with Sweet Potato",
+                    "Baked Turkey with Vegetables"
+                ],
+                "vegan": [
+                    "Chickpea and Avocado Salad",
+                    "Vegetable Brown Rice Pulao",
+                    "Tofu and Veggie Stir Fry with Brown Rice",
+                    "Quinoa Salad with Roasted Vegetables",
+                    "Mixed Dal Soup with Whole Wheat Bread"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Roasted Peanuts",
+                    "Apple Slices",
+                    "Fresh Coconut Water",
+                    "Vegetable Soup",
+                    "Roasted Chana"
+                ],
+                "non-veg": [
+                    "Tuna Lettuce Wraps",
+                    "Grilled Chicken Skewers",
+                    "Boiled Egg with Paprika",
+                    "Chicken Soup",
+                    "Grilled Prawns"
+                ],
+                "vegan": [
+                    "Steamed Edamame",
+                    "Masala Roasted Peanuts",
+                    "Apple Slices with Almond Butter",
+                    "Coconut Water with Chia Seeds",
+                    "Roasted Sunflower Seeds"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Daliya",
+                    "Moong Dal Khichdi",
+                    "Quinoa Vegetable Curry",
+                    "Millet Roti with Dal",
+                    "Brown Rice with Vegetable Curry"
+                ],
+                "non-veg": [
+                    "Baked Cod with Vegetable Stir Fry",
+                    "Lean Mutton Curry",
+                    "Chicken Pulao",
+                    "Fish Moilee",
+                    "Turkey Meatballs"
+                ],
+                "vegan": [
+                    "Stir-Fried Vegetables with Tofu",
+                    "Lentil Curry with Brown Rice",
+                    "Sweet Potato Mash with Grilled Veggies",
+                    "Stuffed Bell Peppers with Millet",
+                    "Vegetable Stir Fry with Soba Noodles"
+                ]
+            }
+        },
+        "Sunday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Sevai",
+                    "Rava Idli with Tomato Chutney",
+                    "Methi Paratha with Low-Fat Curd",
+                    "Chana Dal Pancakes",
+                    "Broken Wheat Upma"
+                ],
+                "non-veg": [
+                    "Egg and Chicken Sausage Wrap",
+                    "Prawn Masala on Whole Wheat Toast",
+                    "Grilled Chicken and Veggie Scramble",
+                    "Scrambled Eggs with Mushrooms and Spinach",
+                    "Chicken and Egg Wrap"
+                ],
+                "vegan": [
+                    "Green Smoothie with Kale, Banana, and Almond Milk",
+                    "Buckwheat Pancakes with Maple Syrup",
+                    "Chia Pudding with Berries",
+                    "Tofu and Mushroom Stir Fry",
+                    "Oats and Apple Porridge"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Almonds and Walnuts",
+                    "Vegetable Slices with Hummus",
+                    "Buttermilk with Curry Leaves",
+                    "Roasted Chana",
+                    "Fruit Salad with Kiwi"
+                ],
+                "non-veg": [
+                    "Chicken Salad with Olive Oil and Lemon",
+                    "Hard-Boiled Egg with Mustard",
+                    "Tuna and Cucumber Salad",
+                    "Grilled Chicken Wings",
+                    "Fish Soup with Ginger"
+                ],
+                "vegan": [
+                    "Fresh Papaya Slices",
+                    "Almond Butter with Dates",
+                    "Baked Kale Chips",
+                    "Masala Roasted Cashews",
+                    "Carrot and Beetroot Sticks with Tahini"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi with Cucumber Raita",
+                    "Spinach and Lentil Soup",
+                    "Paneer Tikka with Veggies",
+                    "Moong Dal and Cucumber Salad",
+                    "Vegetable Quinoa Salad"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Avocado",
+                    "Fish Curry with Brown Rice",
+                    "Mutton Keema with Quinoa",
+                    "Grilled Chicken Salad",
+                    "Baked Fish with Asparagus"
+                ],
+                "vegan": [
+                    "Chickpea and Spinach Salad with Lemon Dressing",
+                    "Vegan Cauliflower Rice Stir-Fry",
+                    "Lentil and Vegetable Soup",
+                    "Quinoa Salad with Roasted Veggies",
+                    "Stuffed Zucchini with Couscous"
+                ]
+            },
+            "evening snack": {
+                "veg": [
+                    "Coconut Water with Lime",
+                    "Roasted Makhana",
+                    "Apple with Cinnamon",
+                    "Vegetable Soup",
+                    "Sliced Pear with Walnuts"
+                ],
+                "non-veg": [
+                    "Grilled Chicken Wings",
+                    "Fish Soup with Ginger",
+                    "Boiled Eggs with Lime",
+                    "Protein Shake with Almond Milk",
+                    "Chicken and Vegetable Soup"
+                ],
+                "vegan": [
+                    "Mango with Lime",
+                    "Steamed Edamame",
+                    "Chia Seed Pudding with Mango",
+                    "Roasted Chickpeas",
+                    "Sliced Papaya with Lime"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir-Fry with Brown Rice",
+                    "Methi and Moong Dal Soup",
+                    "Quinoa Vegetable Pulao",
+                    "Zucchini and Tomato Soup",
+                    "Masoor Dal with Spinach"
+                ],
+                "non-veg": [
+                    "Grilled Fish with Lemon",
+                    "Chicken and Broccoli Stir Fry",
+                    "Lamb Chops with Roasted Veggies",
+                    "Baked Cod with Spinach",
+                    "Chicken with Vegetable Mash"
+                ],
+                "vegan": [
+                    "Sweet Potato and Lentil Stew",
+                    "Stir-Fried Tofu with Vegetables",
+                    "Chickpea and Spinach Curry",
+                    "Zucchini Noodles with Tomato Sauce",
+                    "Vegetable Stir Fry with Quinoa"
+                ]
+            }
+        }
+    },
+    "severe_diabetic": {
+        "Monday": {
+            "breakfast": {
+                "veg": [
+                    "Barley Idli with Coconut Chutney",
+                    "Masoor Dal Cheela",
+                    "Bajra Upma with Vegetables",
+                    "Kodo Millet Porridge",
+                    "Cucumber and Tomato Sandwich (Whole Grain Bread)"
+                ],
+                "non-veg": [
+                    "Scrambled Eggs with Spinach",
+                    "Grilled Chicken Sausage with Vegetables",
+                    "Fish Curry with Barley",
+                    "Poached Eggs on Multigrain Toast",
+                    "Lean Meat Cutlets with Millet"
+                ],
+                "vegan": [
+                    "Ragi Malt with Almond Milk",
+                    "Avocado Toast (Whole Grain Bread)",
+                    "Millet Porridge with Chia Seeds",
+                    "Red Rice Idli with Sambar",
+                    "Sprouted Moong with Lemon and Spices"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Flaxseed Laddu",
+                    "Roasted Watermelon Seeds",
+                    "Carrot Sticks with Mint Dip",
+                    "Apple with Peanut Butter",
+                    "Cucumber with Lemon and Salt"
+                ],
+                "non-veg": [
+                    "Grilled Fish Fingers",
+                    "Chicken and Cucumber Salad",
+                    "Hard-Boiled Egg with Paprika",
+                    "Turkey Slices with Pickled Vegetables",
+                    "Tuna Lettuce Wraps"
+                ],
+                "vegan": [
+                    "Handful of Cashews",
+                    "Guava Slices with Black Salt",
+                    "Pumpkin Seeds",
+                    "Almonds with Raisins",
+                    "Sliced Pear with Lime"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Barley Khichdi",
+                    "Methi Thepla with Curd",
+                    "Bottle Gourd Kofta Curry with Red Rice",
+                    "Spinach Dal with Bajra Roti",
+                    "Cabbage Stir Fry with Amaranth"
+                ],
+                "non-veg": [
+                    "Grilled Salmon with Steamed Vegetables",
+                    "Mutton Curry with Barley",
+                    "Chicken Stew with Sweet Potato",
+                    "Fish Curry with Masoor Dal",
+                    "Baked Turkey with Quinoa"
+                ],
+                "vegan": [
+                    "Tofu and Spinach Curry with Brown Rice",
+                    "Moong Dal Soup with Ragi Roti",
+                    "Chickpea Salad with Quinoa",
+                    "Zucchini and Lentil Stir Fry",
+                    "Stuffed Ridge Gourd with Millet"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Sliced Orange",
+                    "Mixed Nuts (Almonds, Walnuts, Pistachios)",
+                    "Masala Chana Chaat",
+                    "Fresh Coconut Water",
+                    "Vegetable Sticks with Yogurt Dip"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Bell Peppers",
+                    "Boiled Egg with Black Salt",
+                    "Fish Salad with Olive Oil Dressing",
+                    "Chicken Broth with Herbs",
+                    "Prawns with Lemon"
+                ],
+                "vegan": [
+                    "Steamed Edamame",
+                    "Roasted Makhana with Turmeric",
+                    "Fresh Watermelon with Mint",
+                    "Homemade Protein Bar (Almond Flour, Dates)",
+                    "Cucumber and Avocado Salad"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Bajra Roti with Brinjal Curry",
+                    "Moong Dal Dhokla",
+                    "Quinoa and Mixed Vegetable Curry",
+                    "Millet Khichdi",
+                    "Bottle Gourd Soup with Brown Rice"
+                ],
+                "non-veg": [
+                    "Baked Fish with Spinach",
+                    "Chicken Curry with Foxtail Millet",
+                    "Grilled Mutton Chops with Vegetables",
+                    "Turkey Stew with Barley",
+                    "Prawns with Stir-Fried Greens"
+                ],
+                "vegan": [
+                    "Grilled Tofu with Broccoli",
+                    "Sweet Potato Mash with Lentil Soup",
+                    "Vegetable and Coconut Curry with Red Rice",
+                    "Amaranth Roti with Vegetable Curry",
+                    "Vegan Spinach Soup with Quinoa"
+                ]
+            }
+        },
+        "Tuesday": {
+            "breakfast": {
+                "veg": [
+                    "Palak Paratha (Low Oil) with Curd",
+                    "Foxtail Millet Upma with Peas",
+                    "Broken Wheat Porridge with Nuts",
+                    "Kuttu (Buckwheat) Pancakes with Jaggery",
+                    "Lauki (Bottle Gourd) Thepla"
+                ],
+                "non-veg": [
+                    "Egg Salad with Multigrain Toast",
+                    "Grilled Sardines with Lemon",
+                    "Turkey Omelet with Vegetables",
+                    "Chicken Sausage Wrap (Whole Wheat)",
+                    "Boiled Egg and Lentil Salad"
+                ],
+                "vegan": [
+                    "Millet Porridge with Dates and Almond Milk",
+                    "Red Poha with Mixed Vegetables",
+                    "Sprouted Green Gram with Lemon",
+                    "Quinoa Pancakes with Maple Syrup",
+                    "Oats Smoothie with Soy Milk"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Bajra Chips with Yogurt Dip",
+                    "Fresh Figs with Almond Butter",
+                    "Cucumber Mint Salad",
+                    "Roasted Fox Nuts (Plain)",
+                    "Low-GI Fruit Mix (Papaya, Guava)"
+                ],
+                "non-veg": [
+                    "Chicken Tikka (Grilled)",
+                    "Hard-Boiled Eggs with Black Pepper",
+                    "Fish Broth with Vegetables",
+                    "Turkey Lettuce Wraps",
+                    "Tuna Cucumber Bites"
+                ],
+                "vegan": [
+                    "Baked Sweet Potato Chips",
+                    "Handful of Pecans",
+                    "Pumpkin Soup with Toasted Seeds",
+                    "Avocado Cucumber Slices with Lemon",
+                    "Roasted Chana with Spices"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Stuffed Capsicum with Quinoa",
+                    "Rajma Curry with Bajra Roti",
+                    "Vegetable Stew with Grilled Prawns",
+                    "Vegetable Quinoa",
+                    "Chicken Curry with Sweet Potato Mash"
+                ],
+                "non-veg": [
+                    "Baked Mixed Vegetable Curry with Barley",
+                    "Amaranth and Spinach Ragi Mudde",
+                    "Soya Chunk Pulao with Spinach Raita",
+                    "Paneer Bhurji with Barley Roti",
+                    "Salmon with Masoor Dal"
+                ],
+                "vegan": [
+                    "Lean Mutton Kofta Curry with Brown Rice",
+                    "Fish Moilee with Millet Appam",
+                    "Soup, Tofu and Sweet Corn Stir Fry with Red Rice",
+                    "Chickpea and Pumpkin Curry",
+                    "Lentil Soup with Quinoa Salad"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Fresh Coconut Slices",
+                    "Roasted Watermelon Seeds with Spices",
+                    "Curd with Flaxseed Powder",
+                    "Beetroot Sticks with Yogurt Dip",
+                    "Guava Slices"
+                ],
+                "non-veg": [
+                    "Grilled Turkey Strips with Vegetables",
+                    "Fish Cakes with Herbs",
+                    "Chicken and Spinach Roll",
+                    "Egg White and Cucumber Salad",
+                    "Mutton Broth"
+                ],
+                "vegan": [
+                    "Dates with Almond Butter",
+                    "Roasted Edamame",
+                    "Carrot Sticks with Hummus",
+                    "Pear Slices with Mixed Nuts",
+                    "Fruit Salad"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Ragi Dosa with Avocado Chutney",
+                    "Bajra and Vegetable Khichdi",
+                    "Red Lentil Curry with Brown Rice",
+                    "Kodo Millet Roti with Pumpkin Curry",
+                    "Cauliflower Rice with Stir-Fried Vegetables"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Spinach",
+                    "Turkey Curry with Quinoa",
+                    "Steamed Fish with Coconut Gravy and Vegetables",
+                    "Baked Prawns with Sweet Potato",
+                    "Lean Mutton and Vegetable Stew"
+                ],
+                "vegan": [
+                    "Stir-Fried Tofu with Zucchini",
+                    "Sweet Potato and Broccoli Mash",
+                    "Vegetable Stew with Foxtail Millet",
+                    "Coconut Milk Curry with Red Rice",
+                    "Grilled Mushrooms with Mixed Vegetables"
+                ]
+            }
+        },
+        "Wednesday": {
+            "breakfast": {
+                "veg": [
+                    "Moong Dal Pancakes with Mint Chutney",
+                    "Vegetable Bajra Pongal",
+                    "Ragi Dosa",
+                    "Vegetable Upma",
+                    "Oats Idli with Sambar"
+                ],
+                "non-veg": [
+                    "Chicken and Spinach Wrap (Whole Wheat)",
+                    "Egg and Vegetable Scramble with Jowar Toast",
+                    "Barley Porridge with Almond Butter",
+                    "Mixed Vegetable Stir-Fry with Tofu",
+                    "Grilled Fish"
+                ],
+                "vegan": [
+                    "Chia Pudding with Almond Milk and Mixed Berries",
+                    "Vegetable Poha with Peas",
+                    "Avocado Toast on Whole Grain Bread",
+                    "Millet and Vegetable Porridge",
+                    "Tofu and Spinach Stir Fry"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Masala Roasted Peanuts",
+                    "Handful of Flaxseeds",
+                    "Cucumber and Tomato Salad",
+                    "Roasted Chickpeas",
+                    "Sliced Guava"
+                ],
+                "non-veg": [
+                    "Hard-Boiled Eggs with Black Pepper",
+                    "Lemon Grilled Fish",
+                    "Chicken Salad with Olive Oil Dressing",
+                    "Grilled Chicken with Bell Peppers",
+                    "Tuna and Avocado Wrap"
+                ],
+                "vegan": [
+                    "Fresh Coconut Water",
+                    "Roasted Foxnuts",
+                    "Beetroot Sticks with Hummus",
+                    "Guava Slices",
+                    "Fruit Salad"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Bajra Roti with Palak Paneer",
+                    "Quinoa Biryani with Mixed Vegetables",
+                    "Bottle Gourd Soup with Barley Roti",
+                    "Vegetable Khichdi with Curd",
+                    "Mixed Vegetable Salad"
+                ],
+                "non-veg": [
+                    "Chicken Tikka with Millet Salad",
+                    "Mutton Curry with Steamed Brown Rice",
+                    "Fish Moilee with Millet Appam",
+                    "Grilled Chicken with Sweet Potato Mash",
+                    "Egg Curry with Roti"
+                ],
+                "vegan": [
+                    "Tofu and Sweet Corn Stir Fry with Red Rice",
+                    "Chickpea and Pumpkin Curry",
+                    "Lentil Soup with Quinoa Salad",
+                    "Vegetable and Tofu Stir Fry",
+                    "Stuffed Capsicum with Quinoa"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Fresh Coconut Slices",
+                    "Roasted Watermelon Seeds with Spices",
+                    "Curd with Flaxseed Powder",
+                    "Beetroot Sticks with Yogurt Dip",
+                    "Guava Slices"
+                ],
+                "non-veg": [
+                    "Grilled Turkey Strips with Vegetables",
+                    "Fish Cakes with Herbs",
+                    "Chicken and Spinach Roll",
+                    "Egg White and Cucumber Salad",
+                    "Mutton Broth"
+                ],
+                "vegan": [
+                    "Dates with Almond Butter",
+                    "Roasted Edamame",
+                    "Carrot Sticks with Hummus",
+                    "Pear Slices with Mixed Nuts",
+                    "Fruit Salad"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Bajra Khichdi with Yogurt",
+                    "Mixed Dal Soup with Jowar Roti",
+                    "Vegetable Quinoa Khichdi",
+                    "Grilled Mushrooms and Bell Peppers with Millet",
+                    "Vegetable Stir Fry with Foxtail Millet"
+                ],
+                "non-veg": [
+                    "Lemon Baked Fish with Spinach",
+                    "Chicken Curry with Bajra Roti",
+                    "Grilled Mutton with Steamed Vegetables",
+                    "Turkey Meatballs with Quinoa",
+                    "Fish Tikka with Salad"
+                ],
+                "vegan": [
+                    "Vegan Buddha Bowl with Rice",
+                    "Chickpea and Spinach Stew with Brown Rice",
+                    "Stuffed Bell Peppers with Quinoa",
+                    "Vegetable and Lentil Curry with Millet",
+                    "Sweet Potato and Chickpea Curry"
+                ]
+            }
+        },
+        "Thursday": {
+            "breakfast": {
+                "veg": [
+                    "Ragi Vegetable Pancakes",
+                    "Broken Wheat Khichdi with Vegetables",
+                    "Multigrain Vegetable Dosa",
+                    "Vegetable Upma",
+                    "Oats and Vegetable Idli"
+                ],
+                "non-veg": [
+                    "Egg Bhurji with Sprouted Bread",
+                    "Steamed Fish Curry with Spinach",
+                    "Chicken Sausage with Whole Wheat Toast",
+                    "Grilled Chicken with Spinach",
+                    "Egg Salad with Multigrain Bread"
+                ],
+                "vegan": [
+                    "Millet Upma with Chia Seeds",
+                    "Tofu Bhurji with Jowar Toast",
+                    "Vegetable Smoothie Bowl",
+                    "Chia Pudding with Almond Milk",
+                    "Avocado Toast with Tomato"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Makhana",
+                    "Guava with Mint",
+                    "Spiced Almonds",
+                    "Boiled Sweet Potato",
+                    "Vegetable Sticks with Hummus"
+                ],
+                "non-veg": [
+                    "Boiled Eggs with Lemon",
+                    "Grilled Chicken Fingers",
+                    "Chicken and Cucumber Salad",
+                    "Fish Tacos",
+                    "Turkey Roll-Ups"
+                ],
+                "vegan": [
+                    "Coconut Water with Basil Seeds",
+                    "Carrot Sticks with Hummus",
+                    "Pomegranate and Mint Salad",
+                    "Almond Milk Smoothie",
+                    "Roasted Chickpeas"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Spinach Dal with Jowar Roti",
+                    "Bajra Pulao with Spiced Curd",
+                    "Rajma Curry with Brown Rice",
+                    "Vegetable Khichdi with Curd",
+                    "Mixed Vegetable Barley Soup"
+                ],
+                "non-veg": [
+                    "Chicken Curry with Red Rice",
+                    "Fish Moilee with Steamed Vegetables",
+                    "Grilled Chicken with Spinach",
+                    "Mutton Kofta with Brown Rice",
+                    "Egg Curry with Roti"
+                ],
+                "vegan": [
+                    "Mixed Dal Soup with Whole Wheat Bread",
+                    "Stuffed Capsicum with Millet",
+                    "Vegetable and Tofu Stir Fry",
+                    "Chickpea Salad with Quinoa",
+                    "Vegan Buddha Bowl with Rice"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Spiced Buttermilk",
+                    "Roasted Pumpkin Seeds",
+                    "Masala Foxnuts",
+                    "Vegetable Sticks with Hummus",
+                    "Guava with Black Salt"
+                ],
+                "non-veg": [
+                    "Grilled Prawns with Lemon",
+                    "Boiled Egg and Spinach Salad",
+                    "Chicken and Cucumber Salad",
+                    "Tuna Salad with Olive Oil",
+                    "Fish Tacos"
+                ],
+                "vegan": [
+                    "Dates with Almond Butter",
+                    "Roasted Edamame",
+                    "Carrot Sticks with Hummus",
+                    "Pear Slices with Mixed Nuts",
+                    "Fruit Salad"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Ragi Roti with Bottle Gourd Curry",
+                    "Moong Dal Khichdi with Spinach",
+                    "Vegetable Stir Fry with Quinoa",
+                    "Kadhi Pakora with Brown Rice",
+                    "Vegetable and Coconut Curry with Red Rice"
+                ],
+                "non-veg": [
+                    "Lemon Chicken Soup with Barley",
+                    "Grilled Fish with Broccoli",
+                    "Chicken Stew with Vegetables",
+                    "Turkey Meatballs with Quinoa",
+                    "Fish with Veggie Stir Fry"
+                ],
+                "vegan": [
+                    "Sweet Potato and Chickpea Curry",
+                    "Vegetable and Lentil Stew with Rice",
+                    "Stuffed Bell Peppers with Quinoa",
+                    "Vegan Buddha Bowl with Rice",
+                    "Chickpea and Spinach Stew"
+                ]
+            }
+        },
+        "Friday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Barley Idli",
+                    "Poha with Flaxseeds and Peanuts",
+                    "Bajra Pancakes",
+                    "Vegetable Upma",
+                    "Ragi Idli with Sambar"
+                ],
+                "non-veg": [
+                    "Chicken Omelet with Millets",
+                    "Grilled Salmon with Quinoa",
+                    "Egg White and Spinach Wrap",
+                    "Fish Curry with Brown Rice",
+                    "Chicken Sausage with Whole Wheat Toast"
+                ],
+                "vegan": [
+                    "Oats and Vegetable Idli",
+                    "Chia Pudding with Almond Milk",
+                    "Avocado Toast with Tomato",
+                    "Millet Porridge with Berries",
+                    "Tofu Scramble with Vegetables"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Chana",
+                    "Cucumber with Mint Raita",
+                    "Almonds (7-8 pieces)",
+                    "Sprouted Moong",
+                    "Roasted Makhana"
+                ],
+                "non-veg": [
+                    "Grilled Fish Fingers",
+                    "Chicken and Cucumber Salad",
+                    "Hard-Boiled Egg with Paprika",
+                    "Turkey Slices with Pickled Vegetables",
+                    "Tuna Lettuce Wraps"
+                ],
+                "vegan": [
+                    "Handful of Cashews",
+                    "Guava Slices with Black Salt",
+                    "Pumpkin Seeds",
+                    "Almonds with Raisins",
+                    "Sliced Pear with Lime"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Barley Khichdi",
+                    "Methi Thepla with Curd",
+                    "Bottle Gourd Kofta Curry with Red Rice",
+                    "Spinach Dal with Bajra Roti",
+                    "Cabbage Stir Fry with Amaranth"
+                ],
+                "non-veg": [
+                    "Grilled Salmon with Steamed Vegetables",
+                    "Mutton Curry with Barley",
+                    "Chicken Stew with Sweet Potato",
+                    "Fish Curry with Masoor Dal",
+                    "Baked Turkey with Quinoa"
+                ],
+                "vegan": [
+                    "Tofu and Spinach Curry with Brown Rice",
+                    "Moong Dal Soup with Ragi Roti",
+                    "Chickpea Salad with Quinoa",
+                    "Zucchini and Lentil Stir Fry",
+                    "Stuffed Ridge Gourd with Millet"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Sliced Orange",
+                    "Mixed Nuts (Almonds, Walnuts, Pistachios)",
+                    "Masala Chana Chaat",
+                    "Fresh Coconut Water",
+                    "Vegetable Sticks with Yogurt Dip"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Bell Peppers",
+                    "Boiled Egg with Black Salt",
+                    "Fish Salad with Olive Oil Dressing",
+                    "Chicken Broth with Herbs",
+                    "Prawns with Lemon"
+                ],
+                "vegan": [
+                    "Steamed Edamame",
+                    "Roasted Makhana with Turmeric",
+                    "Fresh Watermelon with Mint",
+                    "Homemade Protein Bar (Almond Flour, Dates)",
+                    "Cucumber and Avocado Salad"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Bajra Roti with Brinjal Curry",
+                    "Moong Dal Dhokla",
+                    "Quinoa and Mixed Vegetable Curry",
+                    "Millet Khichdi",
+                    "Bottle Gourd Soup with Brown Rice"
+                ],
+                "non-veg": [
+                    "Baked Fish with Spinach",
+                    "Chicken Curry with Foxtail Millet",
+                    "Grilled Mutton Chops with Vegetables",
+                    "Turkey Stew with Barley",
+                    "Prawns with Stir-Fried Greens"
+                ],
+                "vegan": [
+                    "Grilled Tofu with Broccoli",
+                    "Sweet Potato Mash with Lentil Soup",
+                    "Vegetable and Coconut Curry with Red Rice",
+                    "Amaranth Roti with Vegetable Curry",
+                    "Vegan Spinach Soup with Quinoa"
+                ]
+            }
+        },
+        "Saturday": {
+            "breakfast": {
+                "veg": [
+                    "Bajra Cheela with Green Chutney",
+                    "Ragi and Spinach Idli",
+                    "Barley and Vegetable Upma",
+                    "Vegetable Poha",
+                    "Moong Dal Pancakes"
+                ],
+                "non-veg": [
+                    "Egg White Bhurji with Multigrain Bread",
+                    "Grilled Fish with Stir-Fried Vegetables",
+                    "Chicken Omelet with Spinach",
+                    "Fish Curry with Brown Rice",
+                    "Chicken Sausage with Whole Wheat Toast"
+                ],
+                "vegan": [
+                    "Banana Oatmeal Smoothie",
+                    "Sweet Potato Hash with Tofu",
+                    "Bajra Idli with Tomato Chutney",
+                    "Barley Pancakes with Date Syrup",
+                    "Veggie Millet Bowl with Coconut Milk"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Cucumber Sticks with Mint Raita",
+                    "Roasted Makhana",
+                    "Almonds",
+                    "Vegetable Sticks with Hummus",
+                    "Fruit Salad"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Bell Peppers",
+                    "Boiled Eggs with Black Salt",
+                    "Fish Salad with Olive Oil Dressing",
+                    "Chicken Broth with Herbs",
+                    "Prawns with Lemon"
+                ],
+                "vegan": [
+                    "Steamed Edamame",
+                    "Roasted Makhana with Turmeric",
+                    "Fresh Watermelon with Mint",
+                    "Homemade Protein Bar (Almond Flour, Dates)",
+                    "Cucumber and Avocado Salad"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Barley Khichdi",
+                    "Methi Thepla with Curd",
+                    "Bottle Gourd Kofta Curry with Red Rice",
+                    "Spinach Dal with Bajra Roti",
+                    "Cabbage Stir Fry with Amaranth"
+                ],
+                "non-veg": [
+                    "Grilled Salmon with Steamed Vegetables",
+                    "Mutton Curry with Barley",
+                    "Chicken Stew with Sweet Potato",
+                    "Fish Curry with Masoor Dal",
+                    "Baked Turkey with Quinoa"
+                ],
+                "vegan": [
+                    "Tofu and Spinach Curry with Brown Rice",
+                    "Moong Dal Soup with Ragi Roti",
+                    "Chickpea Salad with Quinoa",
+                    "Zucchini and Lentil Stir Fry",
+                    "Stuffed Ridge Gourd with Millet"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Sliced Orange",
+                    "Mixed Nuts (Almonds, Walnuts, Pistachios)",
+                    "Masala Chana Chaat",
+                    "Fresh Coconut Water",
+                    "Vegetable Sticks with Yogurt Dip"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Bell Peppers",
+                    "Boiled Egg with Black Salt",
+                    "Fish Salad with Olive Oil Dressing",
+                    "Chicken Broth with Herbs",
+                    "Prawns with Lemon"
+                ],
+                "vegan": [
+                    "Steamed Edamame",
+                    "Roasted Makhana with Turmeric",
+                    "Fresh Watermelon with Mint",
+                    "Homemade Protein Bar (Almond Flour, Dates)",
+                    "Cucumber and Avocado Salad"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Bajra Roti with Brinjal Curry",
+                    "Moong Dal Dhokla",
+                    "Quinoa and Mixed Vegetable Curry",
+                    "Millet Khichdi",
+                    "Bottle Gourd Soup with Brown Rice"
+                ],
+                "non-veg": [
+                    "Baked Fish with Spinach",
+                    "Chicken Curry with Foxtail Millet",
+                    "Grilled Mutton Chops with Vegetables",
+                    "Turkey Stew with Barley",
+                    "Prawns with Stir-Fried Greens"
+                ],
+                "vegan": [
+                    "Grilled Tofu with Broccoli",
+                    "Sweet Potato Mash with Lentil Soup",
+                    "Vegetable and Coconut Curry with Red Rice",
+                    "Amaranth Roti with Vegetable Curry",
+                    "Vegan Spinach Soup with Quinoa"
+                ]
+            }
+        },
+        "Sunday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Sevai",
+                    "Rava Idli with Tomato Chutney",
+                    "Methi Paratha with Low-Fat Curd",
+                    "Chana Dal Pancakes",
+                    "Broken Wheat Upma"
+                ],
+                "non-veg": [
+                    "Egg and Chicken Sausage Wrap",
+                    "Prawn Masala on Whole Wheat Toast",
+                    "Grilled Chicken and Veggie Scramble",
+                    "Scrambled Eggs with Mushrooms and Spinach",
+                    "Chicken and Egg Wrap"
+                ],
+                "vegan": [
+                    "Green Smoothie with Kale, Banana, and Almond Milk",
+                    "Buckwheat Pancakes with Maple Syrup",
+                    "Chia Pudding with Berries",
+                    "Tofu and Mushroom Stir Fry",
+                    "Oats and Apple Porridge"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Almonds and Walnuts",
+                    "Vegetable Slices with Hummus",
+                    "Buttermilk with Curry Leaves",
+                    "Roasted Chana",
+                    "Fruit Salad with Kiwi"
+                ],
+                "non-veg": [
+                    "Chicken Salad with Olive Oil and Lemon",
+                    "Hard-Boiled Egg with Mustard",
+                    "Tuna and Cucumber Salad",
+                    "Grilled Chicken Wings",
+                    "Fish Soup with Ginger"
+                ],
+                "vegan": [
+                    "Fresh Papaya Slices",
+                    "Almond Butter with Dates",
+                    "Baked Kale Chips",
+                    "Masala Roasted Cashews",
+                    "Carrot and Beetroot Sticks with Tahini"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi with Cucumber Raita",
+                    "Spinach and Lentil Soup",
+                    "Paneer Tikka with Veggies",
+                    "Moong Dal and Cucumber Salad",
+                    "Vegetable Quinoa Salad"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Avocado",
+                    "Fish Curry with Brown Rice",
+                    "Mutton Keema with Quinoa",
+                    "Grilled Chicken Salad",
+                    "Baked Fish with Asparagus"
+                ],
+                "vegan": [
+                    "Chickpea and Spinach Salad with Lemon Dressing",
+                    "Vegan Cauliflower Rice Stir-Fry",
+                    "Lentil and Vegetable Soup",
+                    "Quinoa Salad with Roasted Veggies",
+                    "Stuffed Zucchini with Couscous"
+                ]
+            },
+            "evening snack": {
+                "veg": [
+                    "Coconut Water with Lime",
+                    "Roasted Makhana",
+                    "Apple with Cinnamon",
+                    "Vegetable Soup",
+                    "Sliced Pear with Walnuts"
+                ],
+                "non-veg": [
+                    "Grilled Chicken Wings",
+                    "Fish Soup with Ginger",
+                    "Boiled Eggs with Lime",
+                    "Protein Shake with Almond Milk",
+                    "Chicken and Vegetable Soup"
+                ],
+                "vegan": [
+                    "Mango with Lime",
+                    "Steamed Edamame",
+                    "Chia Seed Pudding with Mango",
+                    "Roasted Chickpeas",
+                    "Sliced Papaya with Lime"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir-Fry with Brown Rice",
+                    "Methi and Moong Dal Soup",
+                    "Quinoa Vegetable Pulao",
+                    "Zucchini and Tomato Soup",
+                    "Masoor Dal with Spinach"
+                ],
+                "non-veg": [
+                    "Grilled Fish with Lemon",
+                    "Chicken and Broccoli Stir Fry",
+                    "Lamb Chops with Roasted Veggies",
+                    "Baked Cod with Spinach",
+                    "Chicken with Vegetable Mash"
+                ],
+                "vegan": [
+                    "Sweet Potato and Lentil Stew",
+                    "Stir-Fried Tofu with Vegetables",
+                    "Chickpea and Spinach Curry",
+                    "Zucchini Noodles with Tomato Sauce",
+                    "Vegetable Stir Fry with Quinoa"
+                ]
+            }
+        }
+    },
+    "moderate_diabetic": {
+        "Monday": {
+            "breakfast": {
+                "veg": [
+                    "Methi Paratha with Curd",
+                    "Moong Dal Pancake with Carrot",
+                    "Ragi Upma",
+                    "Bajra Khichdi",
+                    "Dosa with Sambar"
+                ],
+                "non-veg": [
+                    "Poached Eggs with Avocado",
+                    "Methi Paratha with Chicken",
+                    "Chicken Sukka",
+                    "Scrambled Eggs with Tomatoes",
+                    "Fish Curry with Brown Rice"
+                ],
+                "vegan": [
+                    "Masala Oats with Vegetables",
+                    "Quinoa Upma with Peas",
+                    "Avocado Toast with Tomato and Cucumber",
+                    "Vegan Moong Dal Chilla",
+                    "Mixed Sprouts Salad"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Almonds",
+                    "Mixed Fruit Salad with Papaya",
+                    "Steamed Corn",
+                    "Carrot and Cucumber Sticks with Mint Dip",
+                    "Puffed Rice"
+                ],
+                "non-veg": [
+                    "Boiled Egg with Black Pepper",
+                    "Chicken Tikka",
+                    "Fish Tikka",
+                    "Chicken and Cucumber Salad",
+                    "Yogurt with Flax Seeds"
+                ],
+                "vegan": [
+                    "Apple with Peanut Butter",
+                    "Almonds",
+                    "Roasted Chickpeas",
+                    "Fresh Coconut Water",
+                    "Raw Mango with Chili"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi",
+                    "Brown Rice with Lauki (Bottle Gourd) Curry",
+                    "Tofu and Vegetable Stir Fry",
+                    "Methi Thepla",
+                    "Moong Dal with Cabbage"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Quinoa",
+                    "Fish Curry with Spinach",
+                    "Egg Curry with Quinoa",
+                    "Baked Salmon with Steamed Vegetables",
+                    "Mutton Soup"
+                ],
+                "vegan": [
+                    "Vegetable Pulao with Tofu",
+                    "Brown Rice with Sambar",
+                    "Spicy Chickpea Salad",
+                    "Quinoa Salad with Mixed Greens",
+                    "Stir Fried Cauliflower and Peas"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Masala Chaas",
+                    "Chana Chaat",
+                    "Sprouted Moong Salad",
+                    "Roasted Sunflower Seeds",
+                    "Masala Roasted Almonds"
+                ],
+                "non-veg": [
+                    "Chicken and Spinach Soup",
+                    "Fish Tikka",
+                    "Protein Shake with Chia Seeds",
+                    "Turkey Breast with Avocado",
+                    "Tuna Salad"
+                ],
+                "vegan": [
+                    "Veggie Smoothie with Flax Seeds",
+                    "Roasted Makhana",
+                    "Apple with Walnuts",
+                    "Masala Roasted Peas",
+                    "Watermelon"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Methi and Onion Thepla with Curd",
+                    "Vegetable Tofu Stir Fry",
+                    "Pesarattu (Green Gram Pancake)",
+                    "Vegetable Moong Dal Soup",
+                    "Buckwheat Khichdi"
+                ],
+                "non-veg": [
+                    "Grilled Fish with Mixed Vegetables",
+                    "Chicken Stew with Brown Rice",
+                    "Mutton Korma with Cauliflower",
+                    "Grilled Chicken with Spinach",
+                    "Fish Fry"
+                ],
+                "vegan": [
+                    "Stir-fried Tofu with Mushrooms and Bell Peppers",
+                    "Lentil Stew with Carrots and Peas",
+                    "Vegetable Couscous",
+                    "Chia Pudding with Almond Milk",
+                    "Stuffed Zucchini with Millet"
+                ]
+            }
+        },
+        "Tuesday": {
+            "breakfast": {
+                "veg": [
+                    "Moong Dal Chilla with Tomato Chutney",
+                    "Oats Poha",
+                    "Ragi Dosa with Coconut Chutney",
+                    "Besan Chilla with Cucumber",
+                    "Buckwheat Porridge"
+                ],
+                "non-veg": [
+                    "Vegetable Omelet with Mushrooms",
+                    "Scrambled Eggs with Spinach",
+                    "Chicken Keema with Quinoa",
+                    "Methi Paratha with Paneer",
+                    "Fish Amritsari"
+                ],
+                "vegan": [
+                    "Chia Seed Pudding with Coconut Milk",
+                    "Vegan Pancakes with Maple Syrup",
+                    "Quinoa Khichdi with Mixed Vegetables",
+                    "Tofu and Spinach Paratha",
+                    "Masala Oats"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Carrot and Beetroot Salad",
+                    "Roasted Walnuts",
+                    "Cucumber with Lemon and Salt",
+                    "Guava",
+                    "Roasted Chana"
+                ],
+                "non-veg": [
+                    "Boiled Egg with Spinach",
+                    "Chicken Shawarma Wrap",
+                    "Grilled Fish with Lemon",
+                    "Fish and Avocado Salad",
+                    "Turkey Bacon"
+                ],
+                "vegan": [
+                    "Mixed Seeds (Flax, Chia, Pumpkin)",
+                    "Coconut Water with Lime",
+                    "Pomegranate",
+                    "Sliced Apple with Almonds",
+                    "Raw Mango"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Pulao with Cucumber Raita",
+                    "Spinach and Moong Dal Soup",
+                    "Lentil Pulao with Veggies",
+                    "Tofu Stir Fry with Vegetables",
+                    "Kachumber Salad"
+                ],
+                "non-veg": [
+                    "Chicken Curry with Brown Rice",
+                    "Grilled Fish with Lentil Soup",
+                    "Mutton with Mixed Vegetables",
+                    "Baked Chicken with Cauliflower",
+                    "Salmon Salad"
+                ],
+                "vegan": [
+                    "Chickpea and Spinach Salad",
+                    "Quinoa and Vegetable Soup",
+                    "Stuffed Mushrooms with Millet",
+                    "Vegan Biryani",
+                    "Mixed Vegetable Khichdi"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Buttermilk with Cumin",
+                    "Roasted Chana with Peanuts",
+                    "Green Tea with Almonds",
+                    "Fruit Salad with Apple and Kiwi",
+                    "Puffed Rice"
+                ],
+                "non-veg": [
+                    "Chicken Salad with Avocado",
+                    "Protein Smoothie with Almond Milk",
+                    "Boiled Egg with Olive Oil",
+                    "Turkey Jerky",
+                    "Grilled Chicken Skewers"
+                ],
+                "vegan": [
+                    "Fresh Coconut Water with Chia Seeds",
+                    "Roasted Makhana with Spices",
+                    "Apple with Almond Butter",
+                    "Roasted Pumpkin Seeds",
+                    "Cucumber with Hummus"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Daliya with Curd",
+                    "Brown Rice with Palak (Spinach) and Onion",
+                    "Lauki (Bottle Gourd) Roti",
+                    "Millet Khichdi with Cabbage",
+                    "Mixed Vegetable Soup"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Spinach Salad",
+                    "Baked Fish with Quinoa",
+                    "Mutton Shorba",
+                    "Chicken Saagwala",
+                    "Fish Tikka"
+                ],
+                "vegan": [
+                    "Stir-fried Tofu with Broccoli",
+                    "Vegetable and Millet Soup",
+                    "Lentil and Spinach Curry with Rice",
+                    "Vegan Stuffed Bell Peppers",
+                    "Zucchini Noodles with Pesto"
+                ]
+            }
+        },
+        "Wednesday": {
+            "breakfast": {
+                "veg": [
+                    "Methi Thepla with Yogurt",
+                    "Oats Upma with Vegetables",
+                    "Moong Dal Cheela with Green Chutney",
+                    "Kachori with Curd",
+                    "Bajra Khichdi"
+                ],
+                "non-veg": [
+                    "Scrambled Eggs with Mushrooms",
+                    "Chicken Bhurji with Millet",
+                    "Egg and Spinach Wrap",
+                    "Tandoori Chicken with Cucumber Raita",
+                    "Grilled Fish with Spinach"
+                ],
+                "vegan": [
+                    "Masala Porridge with Oats and Veggies",
+                    "Vegetable Dosa with Tofu",
+                    "Chia Pudding with Almond Milk and Mixed Berries",
+                    "Poha with Peas",
+                    "Vegan Paratha with Cucumber"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Almonds",
+                    "Boiled Sweet Potato",
+                    "Fruit Chaat with Apple and Pomegranate",
+                    "Moong Sprouts Salad",
+                    "Cucumber with Salt"
+                ],
+                "non-veg": [
+                    "Chicken Soup with Ginger",
+                    "Grilled Prawns with Lemon",
+                    "Hard-Boiled Eggs with Red Chilli",
+                    "Fish Pakora",
+                    "Grilled Chicken Skewers"
+                ],
+                "vegan": [
+                    "Papaya Salad with Lemon",
+                    "Mixed Nuts",
+                    "Coconut Water",
+                    "Roasted Chickpeas with Turmeric",
+                    "Carrot and Celery Sticks"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Masoor Dal with Brown Rice",
+                    "Vegetable Khichdi",
+                    "Vegetable and Tofu Stir Fry",
+                    "Methi Paratha with Yogurt",
+                    "Cabbage and Peas Curry"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Cabbage Salad",
+                    "Mutton Curry with Quinoa",
+                    "Baked Fish with Brown Rice",
+                    "Chicken Korma with Cauliflower",
+                    "Tandoori Fish"
+                ],
+                "vegan": [
+                    "Vegan Biryani with Vegetables",
+                    "Quinoa Salad with Roasted Pumpkin",
+                    "Vegetable Stew with Brown Rice",
+                    "Chickpea and Spinach Soup",
+                    "Stuffed Bell Peppers with Quinoa"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Cucumber and Tomato Salad with Lime",
+                    "Roasted Peanuts with Black Salt",
+                    "Green Tea with Lemon",
+                    "Mixed Fruit Salad with Boiled Egg Whites",
+                    "Tuna Salad with Avocado"
+                ],
+                "non-veg": [
+                    "Chicken Salad with Avocado",
+                    "Protein Smoothie with Almond Milk",
+                    "Boiled Egg with Olive Oil",
+                    "Turkey Jerky",
+                    "Grilled Chicken Skewers"
+                ],
+                "vegan": [
+                    "Fresh Coconut Water with Chia Seeds",
+                    "Roasted Makhana",
+                    "Apple with Almond Butter",
+                    "Roasted Pumpkin Seeds",
+                    "Cucumber with Hummus"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Palak (Spinach) Roti with Dal",
+                    "Vegetable Pulao with Moong Dal",
+                    "Cabbage and Carrot Soup",
+                    "Vegetable Tofu Stir Fry",
+                    "Masala Khichdi"
+                ],
+                "non-veg": [
+                    "Grilled Fish with Spinach",
+                    "Baked Chicken with Broccoli",
+                    "Mutton and Spinach Curry",
+                    "Fish Moilee",
+                    "Grilled Chicken Thighs with Cauliflower Rice"
+                ],
+                "vegan": [
+                    "Stir-fried Veggies with Tofu",
+                    "Vegan Lentil Soup with Kale",
+                    "Vegan Shepherd’s Pie",
+                    "Cauliflower Rice with Stir-fried Tofu",
+                    "Chickpea and Zucchini Stew"
+                ]
+            }
+        },
+        "Thursday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Upma with Peas and Carrots",
+                    "Ragi Dosa with Tamarind Chutney",
+                    "Moong Dal and Spinach Pancake",
+                    "Buckwheat Idli with Sambar",
+                    "Aloo Paratha with Curd"
+                ],
+                "non-veg": [
+                    "Egg and Avocado Toast",
+                    "Scrambled Eggs with Spinach",
+                    "Chicken Keema with Brown Rice",
+                    "Egg Bhurji with Millet",
+                    "Grilled Fish with Quinoa"
+                ],
+                "vegan": [
+                    "Tofu and Vegetable Scramble",
+                    "Chia Seed Parfait with Almond Milk and Strawberries",
+                    "Quinoa Porridge with Almond Butter",
+                    "Vegan Poha with Peas",
+                    "Avocado Toast with Tomato"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Pumpkin Seeds",
+                    "Buttermilk with Ginger",
+                    "Apple with Walnuts",
+                    "Raw Papaya Salad",
+                    "Guava"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Lemon",
+                    "Boiled Egg with Red Onion",
+                    "Prawn Salad with Lime",
+                    "Fish Cutlets",
+                    "Chicken and Vegetable Soup"
+                ],
+                "vegan": [
+                    "Sliced Orange with Almonds",
+                    "Roasted Chana",
+                    "Mixed Nuts",
+                    "Watermelon with Lime",
+                    "Carrot Sticks with Hummus"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Brown Rice with Spinach and Moong Dal",
+                    "Vegetable Khichdi with Peas",
+                    "Vegetable Korma with Millet",
+                    "Masoor Dal with Cucumber Raita",
+                    "Tofu Pulao"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Mixed Veggies",
+                    "Mutton Kofta with Quinoa",
+                    "Fish Curry with Spinach",
+                    "Baked Salmon with Brown Rice",
+                    "Chicken Tikka with Quinoa"
+                ],
+                "vegan": [
+                    "Chickpea Salad with Cucumber and Tomatoes",
+                    "Mixed Vegetable Soup with Brown Rice",
+                    "Vegan Stuffed Peppers with Millet",
+                    "Quinoa Salad with Roasted Carrots",
+                    "Lentil and Kale Soup"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Boiled Mung Beans",
+                    "Steamed Corn with Lime and Salt",
+                    "Cucumber with Yogurt Dip",
+                    "Roasted Chana with Black Salt",
+                    "Fresh Coconut Water"
+                ],
+                "non-veg": [
+                    "Chicken Wrap with Lettuce",
+                    "Grilled Fish with Avocado",
+                    "Protein Smoothie with Banana and Almond Milk",
+                    "Chicken Skewers with Bell Peppers",
+                    "Hard-Boiled Egg with Cucumber"
+                ],
+                "vegan": [
+                    "Fresh Coconut Water",
+                    "Roasted Makhana",
+                    "Almonds with Raisins",
+                    "Mixed Fruit Salad with Papaya and Kiwi",
+                    "Sunflower Seeds"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Mixed Vegetable Dalia",
+                    "Methi and Carrot Roti with Curd",
+                    "Tofu and Vegetable Stir Fry",
+                    "Vegetable Moong Dal Soup",
+                    "Brown Rice with Tomato and Cucumber Salad"
+                ],
+                "non-veg": [
+                    "Baked Chicken with Brussels Sprouts",
+                    "Fish in Coconut Milk with Brown Rice",
+                    "Chicken Saagwala",
+                    "Grilled Salmon with Asparagus",
+                    "Mutton Soup"
+                ],
+                "vegan": [
+                    "Stir-fried Tofu with Spinach and Mushroom",
+                    "Sweet Potato and Chickpea Curry",
+                    "Vegan Tacos with Beans and Lettuce",
+                    "Zucchini Noodles with Marinara",
+                    "Lentil Curry with Veggies"
+                ]
+            }
+        },
+        "Friday": {
+            "breakfast": {
+                "veg": [
+                    "Masala Oats with Vegetables",
+                    "Rava Upma with Coconut",
+                    "Cabbage Paratha with Yogurt",
+                    "Sabudana Khichdi",
+                    "Moong Dal Dosa with Coconut Chutney"
+                ],
+                "non-veg": [
+                    "Egg White Bhurji with Onion",
+                    "Chicken Saagwala with Millet",
+                    "Scrambled Eggs with Broccoli",
+                    "Tandoori Chicken with Green Chutney",
+                    "Fish in Mustard Sauce"
+                ],
+                "vegan": [
+                    "Millet Porridge with Almond Milk",
+                    "Vegan Pancakes with Coconut Syrup",
+                    "Quinoa Khichdi with Mixed Vegetables",
+                    "Chia Seed Pudding with Coconut Milk",
+                    "Masala Dosa with Tofu"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Sliced Papaya with Lime",
+                    "Roasted Cashews",
+                    "Green Tea with Almonds",
+                    "Carrot and Beetroot Sticks",
+                    "Puffed Rice with Peanuts"
+                ],
+                "non-veg": [
+                    "Chicken Breast with Carrot Sticks",
+                    "Tuna Salad with Lime",
+                    "Hard-Boiled Eggs with Salt",
+                    "Grilled Prawns with Lemon",
+                    "Chicken and Lettuce Wrap"
+                ],
+                "vegan": [
+                    "Roasted Chickpeas with Garlic",
+                    "Apple with Walnuts",
+                    "Mixed Seeds",
+                    "Fresh Coconut Water",
+                    "Roasted Sunflower Seeds"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Quinoa Pulao with Peas",
+                    "Vegetable Tofu Stir Fry",
+                    "Lauki (Bottle Gourd) Curry with Millet",
+                    "Chana Masala with Brown Rice",
+                    "Moong Dal with Vegetable Stew"
+                ],
+                "non-veg": [
+                    "Grilled Fish with Veggie Salad",
+                    "Baked Chicken with Cauliflower Rice",
+                    "Mutton Korma with Quinoa",
+                    "Grilled Chicken with Spinach",
+                    "Prawns with Brown Rice"
+                ],
+                "vegan": [
+                    "Lentil Soup with Kale",
+                    "Stuffed Bell Peppers with Quinoa",
+                    "Zucchini Noodles with Avocado",
+                    "Quinoa and Chickpea Salad",
+                    "Vegan Cabbage Soup with Brown Rice"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Buttermilk with Cumin",
+                    "Roasted Peanuts with Black Salt",
+                    "Guava with Chilli Powder",
+                    "Fruit Salad with Apple and Banana",
+                    "Sliced Cucumber with Salt"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Avocado",
+                    "Protein Shake with Almond Milk",
+                    "Tuna Salad with Tomato",
+                    "Chicken Skewers with Bell Peppers",
+                    "Fish and Mango Salad"
+                ],
+                "vegan": [
+                    "Pomegranate with Almonds",
+                    "Sliced Carrot with Lemon",
+                    "Mixed Fruit Salad with Papaya and Orange",
+                    "Roasted Makhana with Salt",
+                    "Pumpkin Seeds"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Brown Rice with Spinach",
+                    "Moong Dal Khichdi with Carrot",
+                    "Tofu and Broccoli Stir Fry",
+                    "Vegetable and Lentil Soup",
+                    "Millet Roti with Dal"
+                ],
+                "non-veg": [
+                    "Grilled Mutton with Spinach",
+                    "Baked Fish with Zucchini",
+                    "Chicken Tikka with Salad",
+                    "Fish Curry with Brown Rice",
+                    "Grilled Turkey Breast with Quinoa"
+                ],
+                "vegan": [
+                    "Vegan Stir-Fry with Tofu and Vegetables",
+                    "Spicy Chickpea Stew with Spinach",
+                    "Lentil and Vegetable Soup with Rice",
+                    "Sweet Potato and Black Bean Curry",
+                    "Cauliflower Rice with Tofu Stir Fry"
+                ]
+            }
+        },
+        "Saturday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Paratha with Yogurt",
+                    "Bajra Khichdi with Curd",
+                    "Oats and Moong Dal Chilla",
+                    "Methi Thepla with Pickle",
+                    "Pesarattu (Green Gram Pancake)"
+                ],
+                "non-veg": [
+                    "Egg White and Mushroom Scramble",
+                    "Chicken Pulao with Brown Rice",
+                    "Grilled Chicken with Avocado",
+                    "Egg Bhurji with Spinach",
+                    "Fish with Masala Quinoa"
+                ],
+                "vegan": [
+                    "Mung Bean Pancakes with Cucumber and Tomato Salad",
+                    "Buckwheat Porridge with Almond Milk",
+                    "Chia and Berry Smoothie",
+                    "Vegan Dosa with Cabbage Filling",
+                    "Avocado Smoothie with Chia Seeds"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Makhana with Black Salt",
+                    "Pear with Walnuts",
+                    "Masala Chaas",
+                    "Sprouted Moong",
+                    "Raw Mango with Salt and Chilli"
+                ],
+                "non-veg": [
+                    "Grilled Chicken Strips with Cucumber",
+                    "Hard-Boiled Egg with Salt",
+                    "Fish Tikka",
+                    "Chicken Soup with Vegetables",
+                    "Tuna Salad"
+                ],
+                "vegan": [
+                    "Fresh Fruit Salad with Pomegranate and Kiwi",
+                    "Roasted Pumpkin Seeds",
+                    "Almonds with Raisins",
+                    "Carrot and Cucumber Sticks with Hummus",
+                    "Watermelon Slices"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Daliya with Moong Dal",
+                    "Vegetable Biryani with Brown Rice",
+                    "Mixed Vegetable Curry with Millet",
+                    "Sabudana Khichdi with Cucumber Raita",
+                    "Dal Makhani with Whole Wheat Roti"
+                ],
+                "non-veg": [
+                    "Baked Fish with Quinoa",
+                    "Chicken Shawarma with Veggies",
+                    "Grilled Mutton with Spinach",
+                    "Chicken Keema with Brown Rice",
+                    "Grilled Fish with Mixed Veggies"
+                ],
+                "vegan": [
+                    "Quinoa and Chickpea Salad with Spinach",
+                    "Vegan Lentil Soup with Zucchini",
+                    "Vegan Stir-Fry with Tofu and Broccoli",
+                    "Roasted Sweet Potato with Chickpeas",
+                    "Mixed Bean Salad with Tomato and Cucumber"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Roasted Almonds",
+                    "Sliced Mango with Chilli Powder",
+                    "Apple with Cucumber",
+                    "Buttermilk with Cumin",
+                    "Carrot and Cucumber Salad"
+                ],
+                "non-veg": [
+                    "Grilled Prawns with Lemon",
+                    "Hard-Boiled Egg with Salt",
+                    "Tuna Salad with Lime",
+                    "Grilled Chicken with Tomatoes",
+                    "Chicken Skewers with Veggies"
+                ],
+                "vegan": [
+                    "Chia Pudding with Coconut Milk",
+                    "Sliced Kiwi with Almonds",
+                    "Guava with Chilli Powder",
+                    "Roasted Chana with Black Salt",
+                    "Mixed Berries"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Ragi Dosa with Coconut Chutney",
+                    "Moong Dal Khichdi with Spinach",
+                    "Quinoa and Vegetable Soup",
+                    "Methi and Carrot Paratha with Yogurt",
+                    "Millet and Vegetable Stir Fry"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Zucchini",
+                    "Fish Curry with Spinach",
+                    "Mutton with Quinoa",
+                    "Grilled Chicken with Stir-Fried Vegetables",
+                    "Grilled Salmon with Salad"
+                ],
+                "vegan": [
+                    "Tofu and Vegetable Stir Fry with Soy Sauce",
+                    "Sweet Potato Curry with Coconut Milk",
+                    "Vegan Korma with Mixed Vegetables",
+                    "Lentil Stew with Kale",
+                    "Vegan Stuffed Mushrooms"
+                ]
+            }
+        },
+        "Sunday": {
+            "breakfast": {
+                "veg": [
+                    "Moong Dal Chilla with Tomato Chutney",
+                    "Poha with Peanuts",
+                    "Ragi Idli with Coconut Chutney",
+                    "Vegetable Upma with Lemon",
+                    "Kalaadi Paratha (Sorghum Flour) with Curd"
+                ],
+                "non-veg": [
+                    "Scrambled Eggs with Tomatoes",
+                    "Methi (Fenugreek) Egg Paratha",
+                    "Grilled Chicken with Brown Rice",
+                    "Masala Omelette with Millet",
+                    "Fish Poha"
+                ],
+                "vegan": [
+                    "Buckwheat Pancakes with Maple Syrup",
+                    "Vegan Porridge with Almond Milk and Banana",
+                    "Amaranth Khichdi with Tofu",
+                    "Chia Pudding with Mango",
+                    "Vegan Dosa with Sambar"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Sliced Papaya with Black Salt",
+                    "Roasted Walnuts",
+                    "Yogurt with Cucumber",
+                    "Chana Chaat with Onion and Tomato",
+                    "Sliced Apple with Cinnamon"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Mixed Greens",
+                    "Boiled Egg Whites",
+                    "Chicken Salad with Lemon",
+                    "Roasted Turkey Strips",
+                    "Hard-Boiled Eggs with Black Salt"
+                ],
+                "vegan": [
+                    "Mixed Berries",
+                    "Almonds with Dates",
+                    "Roasted Chickpeas with Lemon",
+                    "Cucumber with Hummus",
+                    "Fresh Coconut Water with Lime"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Mixed Vegetable Pulao with Yogurt",
+                    "Vegetable Pesarattu",
+                    "Rajma with Brown Rice",
+                    "Lauki Paratha with Curd",
+                    "Palak (Spinach) and Moong Dal"
+                ],
+                "non-veg": [
+                    "Chicken Kebabs with Quinoa",
+                    "Baked Fish with Sweet Potato",
+                    "Mutton with Brown Rice",
+                    "Grilled Chicken with Quinoa",
+                    "Fish Curry with Rice"
+                ],
+                "vegan": [
+                    "Vegan Stuffed Peppers with Rice",
+                    "Lentil Soup with Spinach",
+                    "Vegetable and Chickpea Stew",
+                    "Tofu Stir Fry with Rice Noodles",
+                    "Quinoa and Kale Salad"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Green Tea with Roasted Almonds",
+                    "Fruit Salad with Pear and Apple",
+                    "Roasted Chana with Chat Masala",
+                    "Sliced Guava with Black Salt",
+                    "Grilled Fish with Tomatoes"
+                ],
+                "non-veg": [
+                    "Chicken and Vegetable Soup",
+                    "Boiled Eggs with Mustard",
+                    "Grilled Chicken with Zucchini",
+                    "Tuna Salad with Cucumber",
+                    "Sliced Orange with Cinnamon"
+                ],
+                "vegan": [
+                    "Roasted Sunflower Seeds",
+                    "Pomegranate with Walnuts",
+                    "Roasted Edamame with Chili",
+                    "Raw Mango with Salt",
+                    "Buttermilk with Roasted Cumin"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Khichdi with Yogurt",
+                    "Masala Moong Dal with Roti",
+                    "Cabbage and Carrot Stir Fry with Brown Rice",
+                    "Vegetable and Tofu Soup",
+                    "Whole Wheat Chapati with Spinach"
+                ],
+                "non-veg": [
+                    "Grilled Mutton with Garlic",
+                    "Baked Fish with Vegetable Stir Fry",
+                    "Chicken and Spinach Curry",
+                    "Grilled Salmon with Avocado",
+                    "Turkey Meatballs with Quinoa"
+                ],
+                "vegan": [
+                    "Sweet Potato and Kale Stew",
+                    "Tofu Stir-Fry with Veggies",
+                    "Vegan Palak Paneer",
+                    "Chickpea and Spinach Curry",
+                    "Cauliflower and Broccoli Stir Fry"
+                ]
+            }
+        }
+    },
+    "mild_diabetic": {
+        "Monday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Upma with Peas",
+                    "Moong Dal Chilla with Green Chutney",
+                    "Ragi Dosa with Coconut Chutney",
+                    "Vegetable Poha",
+                    "Besan Cheela with Spinach"
+                ],
+                "non-veg": [
+                    "Scrambled Eggs with Spinach",
+                    "Grilled Chicken with Quinoa",
+                    "Egg White Omelet with Vegetables",
+                    "Fish Curry with Brown Rice",
+                    "Chicken Sausage with Whole Wheat Toast"
+                ],
+                "vegan": [
+                    "Vegan Smoothie with Spinach and Banana",
+                    "Chia Seed Pudding with Almond Milk",
+                    "Avocado Toast with Tomato",
+                    "Millet Porridge with Berries",
+                    "Tofu Scramble with Vegetables"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Sliced Cucumber with Lemon",
+                    "Roasted Chickpeas",
+                    "Carrot Sticks with Hummus",
+                    "Mixed Nuts (Almonds, Walnuts)",
+                    "Fruit Salad with Papaya"
+                ],
+                "non-veg": [
+                    "Boiled Egg with Black Pepper",
+                    "Chicken Salad with Avocado",
+                    "Tuna Salad with Olive Oil",
+                    "Grilled Chicken Skewers",
+                    "Fish Tikka"
+                ],
+                "vegan": [
+                    "Fresh Coconut Water",
+                    "Guava with Chilli Powder",
+                    "Roasted Makhana",
+                    "Fruit Salad with Lime",
+                    "Almonds with Raisins"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi with Curd",
+                    "Palak Dal with Brown Rice",
+                    "Mixed Vegetable Curry with Roti",
+                    "Chana Masala with Quinoa",
+                    "Vegetable Pulao with Raita"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Quinoa Salad",
+                    "Fish Curry with Brown Rice",
+                    "Chicken Biryani with Raita",
+                    "Egg Curry with Whole Wheat Chapati",
+                    "Mutton Curry with Jeera Rice"
+                ],
+                "vegan": [
+                    "Chickpea and Spinach Stew with Rice",
+                    "Tofu Stir-Fry with Vegetables",
+                    "Lentil Soup with Quinoa",
+                    "Vegetable and Brown Rice Bowl",
+                    "Vegan Stuffed Peppers"
+                ]
+            },
+            "evening snack": {
+                "veg": [
+                    "Masala Chaas (Buttermilk)",
+                    "Roasted Peanuts with Spices",
+                    "Vegetable Soup",
+                    "Baked Sweet Potato Wedges",
+                    "Fruit Chaat"
+                ],
+                "non-veg": [
+                    "Chicken Soup with Vegetables",
+                    "Grilled Fish with Lemon",
+                    "Egg Salad with Spinach",
+                    "Turkey and Veggie Wrap",
+                    "Shrimp Cocktail"
+                ],
+                "vegan": [
+                    "Coconut Water with Chia Seeds",
+                    "Roasted Pumpkin Seeds",
+                    "Sliced Carrots with Hummus",
+                    "Fruit Salad with Lime",
+                    "Almond Milk Smoothie"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir-Fry with Brown Rice",
+                    "Dal Tadka with Roti",
+                    "Palak Paneer with Quinoa",
+                    "Mixed Vegetable Curry with Bajra Roti",
+                    "Kadhi with Rice"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Steamed Vegetables",
+                    "Fish Curry with Quinoa",
+                    "Mutton Rogan Josh with Brown Rice",
+                    "Chicken and Vegetable Stir Fry",
+                    "Eggplant and Chicken Curry"
+                ],
+                "vegan": [
+                    "Tofu and Vegetable Curry with Rice",
+                    "Chickpea and Spinach Salad",
+                    "Vegan Thai Green Curry with Brown Rice",
+                    "Stuffed Zucchini with Quinoa",
+                    "Lentil and Vegetable Stew"
+                ]
+            }
+        },
+        "Tuesday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Upma with Peas",
+                    "Moong Dal Pancakes with Chutney",
+                    "Ragi Dosa with Sambar",
+                    "Vegetable Poha",
+                    "Besan Cheela with Spinach"
+                ],
+                "non-veg": [
+                    "Chicken Poha",
+                    "Boiled Eggs with Masala Rice",
+                    "Egg Kathi Roll",
+                    "Fish Curry with Bajra Roti",
+                    "Chicken Pulao"
+                ],
+                "vegan": [
+                    "Almond Butter on Whole Wheat Toast",
+                    "Quinoa Pancakes with Maple Syrup",
+                    "Avocado Smoothie Bowl",
+                    "Sweet Potato Hash with Spinach",
+                    "Ragi Porridge with Berries"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Khakhra with Pickle",
+                    "Banana Chips (Homemade)",
+                    "Rajma Sundal",
+                    "Cucumber Sandwich",
+                    "Sweet Corn Chaat"
+                ],
+                "non-veg": [
+                    "Grilled Prawns with Lemon",
+                    "Chicken Seekh Kebab",
+                    "Egg Salad with Mustard",
+                    "Fish Fingers with Mango Salsa",
+                    "Turkey Lettuce Wraps"
+                ],
+                "vegan": [
+                    "Baked Plantain Chips",
+                    "Dates with Almond Butter",
+                    "Carrot Sticks with Tahini Dip",
+                    "Guava Salad with Rock Salt",
+                    "Sesame Seeds and Jaggery Bar"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi with Curd",
+                    "Palak Dal with Brown Rice",
+                    "Mixed Vegetable Curry with Roti",
+                    "Chana Masala with Quinoa",
+                    "Vegetable Pulao with Raita"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Quinoa Salad",
+                    "Fish Curry with Brown Rice",
+                    "Chicken Biryani with Raita",
+                    "Egg Curry with Whole Wheat Chapati",
+                    "Mutton Curry with Jeera Rice"
+                ],
+                "vegan": [
+                    "Chickpea and Spinach Stew with Rice",
+                    "Tofu Stir-Fry with Vegetables",
+                    "Lentil Soup with Quinoa",
+                    "Vegetable and Brown Rice Bowl",
+                    "Vegan Stuffed Peppers"
+                ]
+            },
+            "evening snack": {
+                "veg": [
+                    "Masala Chaas (Buttermilk)",
+                    "Roasted Peanuts with Spices",
+                    "Vegetable Soup",
+                    "Baked Sweet Potato Wedges",
+                    "Fruit Chaat"
+                ],
+                "non-veg": [
+                    "Chicken Soup with Vegetables",
+                    "Grilled Fish with Lemon",
+                    "Egg Salad with Spinach",
+                    "Turkey and Veggie Wrap",
+                    "Shrimp Cocktail"
+                ],
+                "vegan": [
+                    "Coconut Water with Chia Seeds",
+                    "Roasted Pumpkin Seeds",
+                    "Sliced Carrots with Hummus",
+                    "Fruit Salad with Lime",
+                    "Almond Milk Smoothie"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir-Fry with Brown Rice",
+                    "Dal Tadka with Roti",
+                    "Palak Paneer with Quinoa",
+                    "Mixed Vegetable Curry with Bajra Roti",
+                    "Kadhi with Rice"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Steamed Vegetables",
+                    "Fish Curry with Quinoa",
+                    "Mutton Rogan Josh with Brown Rice",
+                    "Chicken and Vegetable Stir Fry",
+                    "Eggplant and Chicken Curry"
+                ],
+                "vegan": [
+                    "Tofu and Vegetable Curry with Rice",
+                    "Chickpea and Spinach Salad",
+                    "Vegan Thai Green Curry with Brown Rice",
+                    "Stuffed Zucchini with Quinoa",
+                    "Lentil and Vegetable Stew"
+                ]
+            }
+        },
+        "Wednesday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Ragi Upma",
+                    "Moong Dal Chilla with Green Chutney",
+                    "Ragi Dosa with Coconut Chutney",
+                    "Vegetable Poha",
+                    "Besan Cheela with Spinach"
+                ],
+                "non-veg": [
+                    "Scrambled Eggs with Spinach",
+                    "Chicken and Vegetable Omelet",
+                    "Grilled Fish with Quinoa",
+                    "Egg and Vegetable Wrap",
+                    "Chicken Sausage with Whole Wheat Toast"
+                ],
+                "vegan": [
+                    "Vegan Pancakes with Maple Syrup",
+                    "Chia Seed Pudding with Almond Milk",
+                    "Avocado Toast with Tomato",
+                    "Millet Porridge with Berries",
+                    "Tofu Scramble with Vegetables"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Sliced Apple with Peanut Butter",
+                    "Roasted Chickpeas",
+                    "Cucumber Sticks with Hummus",
+                    "Carrot and Celery Sticks",
+                    "Mixed Nuts (Almonds, Walnuts)"
+                ],
+                "non-veg": [
+                    "Boiled Egg with Black Pepper",
+                    "Chicken Salad with Avocado",
+                    "Tuna Salad with Olive Oil",
+                    "Grilled Chicken Skewers",
+                    "Fish Tikka"
+                ],
+                "vegan": [
+                    "Fresh Coconut Water",
+                    "Guava with Chilli Powder",
+                    "Roasted Makhana",
+                    "Fruit Salad with Papaya",
+                    "Almonds with Raisins"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi with Curd",
+                    "Palak Dal with Brown Rice",
+                    "Mixed Vegetable Curry with Roti",
+                    "Chana Masala with Quinoa",
+                    "Vegetable Pulao with Raita"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Quinoa Salad",
+                    "Fish Curry with Brown Rice",
+                    "Chicken Biryani with Raita",
+                    "Egg Curry with Whole Wheat Chapati",
+                    "Mutton Curry with Jeera Rice"
+                ],
+                "vegan": [
+                    "Chickpea and Spinach Stew with Rice",
+                    "Tofu Stir-Fry with Vegetables",
+                    "Lentil Soup with Quinoa",
+                    "Vegetable and Brown Rice Bowl",
+                    "Vegan Stuffed Peppers"
+                ]
+            },
+            "evening snack": {
+                "veg": [
+                    "Masala Chaas (Buttermilk)",
+                    "Roasted Peanuts with Spices",
+                    "Vegetable Soup",
+                    "Baked Sweet Potato Wedges",
+                    "Fruit Chaat"
+                ],
+                "non-veg": [
+                    "Chicken Soup with Vegetables",
+                    "Grilled Fish with Lemon",
+                    "Egg Salad with Spinach",
+                    "Turkey and Veggie Wrap",
+                    "Shrimp Cocktail"
+                ],
+                "vegan": [
+                    "Coconut Water with Chia Seeds",
+                    "Roasted Pumpkin Seeds",
+                    "Sliced Carrots with Hummus",
+                    "Fruit Salad with Lime",
+                    "Almond Milk Smoothie"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir-Fry with Brown Rice",
+                    "Dal Tadka with Roti",
+                    "Palak Paneer with Quinoa",
+                    "Mixed Vegetable Curry with Bajra Roti",
+                    "Kadhi with Rice"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Steamed Vegetables",
+                    "Fish Curry with Quinoa",
+                    "Mutton Rogan Josh with Brown Rice",
+                    "Chicken and Vegetable Stir Fry",
+                    "Eggplant and Chicken Curry"
+                ],
+                "vegan": [
+                    "Tofu and Vegetable Curry with Rice",
+                    "Chickpea and Spinach Salad",
+                    "Vegan Thai Green Curry with Brown Rice",
+                    "Stuffed Zucchini with Quinoa",
+                    "Lentil and Vegetable Stew"
+                ]
+            }
+        },
+        "Thursday": {
+            "breakfast": {
+                "veg": [
+                    "Moong Dal Chilla with Tomato Chutney",
+                    "Millet Upma with Mixed Vegetables",
+                    "Ragi Dosa with Coconut Chutney",
+                    "Vegetable Poha",
+                    "Besan Cheela with Spinach"
+                ],
+                "non-veg": [
+                    "Egg White Omelet with Vegetables",
+                    "Grilled Chicken Sandwich",
+                    "Scrambled Eggs with Spinach",
+                    "Fish Curry with Brown Rice",
+                    "Chicken Sausage with Whole Wheat Toast"
+                ],
+                "vegan": [
+                    "Vegan Pancakes with Maple Syrup",
+                    "Chia Seed Pudding with Almond Milk",
+                    "Avocado Toast with Tomato",
+                    "Millet Porridge with Berries",
+                    "Tofu Scramble with Vegetables"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Sliced Apple with Peanut Butter",
+                    "Roasted Chickpeas",
+                    "Cucumber Sticks with Hummus",
+                    "Carrot and Celery Sticks",
+                    "Mixed Nuts (Almonds, Walnuts)"
+                ],
+                "non-veg": [
+                    "Boiled Egg with Black Pepper",
+                    "Chicken Salad with Avocado",
+                    "Tuna Salad with Olive Oil",
+                    "Grilled Chicken Skewers",
+                    "Fish Tikka"
+                ],
+                "vegan": [
+                    "Fresh Coconut Water",
+                    "Guava with Chilli Powder",
+                    "Roasted Makhana",
+                    "Fruit Salad with Papaya",
+                    "Almonds with Raisins"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi with Curd",
+                    "Palak Dal with Brown Rice",
+                    "Mixed Vegetable Curry with Roti",
+                    "Chana Masala with Quinoa",
+                    "Vegetable Pulao with Raita"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Quinoa Salad",
+                    "Fish Curry with Brown Rice",
+                    "Chicken Biryani with Raita",
+                    "Egg Curry with Whole Wheat Chapati",
+                    "Mutton Curry with Jeera Rice"
+                ],
+                "vegan": [
+                    "Chickpea and Spinach Stew with Rice",
+                    "Tofu Stir-Fry with Vegetables",
+                    "Lentil Soup with Quinoa",
+                    "Vegetable and Brown Rice Bowl",
+                    "Vegan Stuffed Peppers"
+                ]
+            },
+            "evening snack": {
+                "veg": [
+                    "Masala Chaas (Buttermilk)",
+                    "Roasted Peanuts with Spices",
+                    "Vegetable Soup",
+                    "Baked Sweet Potato Wedges",
+                    "Fruit Chaat"
+                ],
+                "non-veg": [
+                    "Chicken Soup with Vegetables",
+                    "Grilled Fish with Lemon",
+                    "Egg Salad with Spinach",
+                    "Turkey and Veggie Wrap",
+                    "Shrimp Cocktail"
+                ],
+                "vegan": [
+                    "Coconut Water with Chia Seeds",
+                    "Roasted Pumpkin Seeds",
+                    "Sliced Carrots with Hummus",
+                    "Fruit Salad with Lime",
+                    "Almond Milk Smoothie"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir-Fry with Brown Rice",
+                    "Dal Tadka with Roti",
+                    "Palak Paneer with Quinoa",
+                    "Mixed Vegetable Curry with Bajra Roti",
+                    "Kadhi with Rice"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Steamed Vegetables",
+                    "Fish Curry with Quinoa",
+                    "Mutton Rogan Josh with Brown Rice",
+                    "Chicken and Vegetable Stir Fry",
+                    "Eggplant and Chicken Curry"
+                ],
+                "vegan": [
+                    "Tofu and Vegetable Curry with Rice",
+                    "Chickpea and Spinach Salad",
+                    "Vegan Thai Green Curry with Brown Rice",
+                    "Stuffed Zucchini with Quinoa",
+                    "Lentil and Vegetable Stew"
+                ]
+            }
+        },
+        "Friday": {
+            "breakfast": {
+                "veg": [
+                    "Methi Paratha with Low-Fat Yogurt",
+                    "Oats and Flaxseed Porridge",
+                    "Millet Upma with Cucumber Raita",
+                    "Green Moong Dal Pancakes",
+                    "Quinoa and Vegetable Poha"
+                ],
+                "non-veg": [
+                    "Scrambled Eggs with Mushrooms",
+                    "Grilled Chicken with Avocado and Tomato",
+                    "Egg and Vegetable Quinoa Bowl",
+                    "Smoked Salmon on Whole Wheat Toast",
+                    "Chicken Tikka with Spinach"
+                ],
+                "vegan": [
+                    "Almond Milk Smoothie with Spinach, Banana, and Berries",
+                    "Chickpea Flour Pancakes with Mint Chutney",
+                    "Oats Idli with Sambar",
+                    "Chia Seed Pudding with Coconut Milk",
+                    "Tofu and Veggie Stir-fry"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Pumpkin Seeds",
+                    "Sliced Pear with Cinnamon",
+                    "Apple with Peanut Butter",
+                    "Cucumber Sticks with Salt and Lime",
+                    "Roasted Cashews"
+                ],
+                "non-veg": [
+                    "Grilled Prawns with Lemon",
+                    "Boiled Eggs with Guacamole",
+                    "Chicken and Lettuce Wraps",
+                    "Tuna Salad with Avocado",
+                    "Shrimp Cocktail"
+                ],
+                "vegan": [
+                    "Mixed Fruit Salad with Lime",
+                    "Roasted Chickpeas",
+                    "Raw Carrot and Cucumber Sticks with Hummus",
+                    "Chia Pudding",
+                    "Almonds with Dried Cranberries"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi with Curd",
+                    "Brown Rice with Methi (Fenugreek) and Tomato Curry",
+                    "Zucchini and Lentil Salad",
+                    "Bajra Pulao with Boiled Vegetables",
+                    "Tofu and Spinach Curry with Quinoa"
+                ],
+                "non-veg": [
+                    "Baked Chicken with Stir-Fried Vegetables",
+                    "Mutton Seekh Kebabs with Quinoa",
+                    "Fish Curry with Brown Rice",
+                    "Grilled Chicken Breast with Roasted Vegetables",
+                    "Egg and Vegetable Curry with Barley"
+                ],
+                "vegan": [
+                    "Quinoa Salad with Roasted Vegetables",
+                    "Tofu and Vegetable Stir Fry with Brown Rice",
+                    "Chickpea and Spinach Salad",
+                    "Avocado and Tomato Salad with Balsamic Dressing",
+                    "Stuffed Bell Peppers with Couscous"
+                ]
+            },
+            "evening snack": {
+                "veg": [
+                    "Buttermilk with Mint",
+                    "Roasted Peanuts with Spices",
+                    "Vegetable Soup",
+                    "Baked Sweet Potato Wedges",
+                    "Fruit Chaat"
+                ],
+                "non-veg": [
+                    "Chicken Soup with Vegetables",
+                    "Grilled Fish with Lemon",
+                    "Egg Salad with Spinach",
+                    "Turkey and Veggie Wrap",
+                    "Shrimp Cocktail"
+                ],
+                "vegan": [
+                    "Coconut Water with Chia Seeds",
+                    "Roasted Pumpkin Seeds",
+                    "Sliced Carrots with Hummus",
+                    "Fruit Salad with Lime",
+                    "Almond Milk Smoothie"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir-Fry with Brown Rice",
+                    "Dal Tadka with Roti",
+                    "Palak Paneer with Quinoa",
+                    "Mixed Vegetable Curry with Bajra Roti",
+                    "Kadhi with Rice"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Steamed Vegetables",
+                    "Fish Curry with Quinoa",
+                    "Mutton Rogan Josh with Brown Rice",
+                    "Chicken and Vegetable Stir Fry",
+                    "Eggplant and Chicken Curry"
+                ],
+                "vegan": [
+                    "Tofu and Vegetable Curry with Rice",
+                    "Chickpea and Spinach Salad",
+                    "Vegan Thai Green Curry with Brown Rice",
+                    "Stuffed Zucchini with Quinoa",
+                    "Lentil and Vegetable Stew"
+                ]
+            }
+        },
+        "Saturday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Upma with Peas",
+                    "Moong Dal Pancakes with Chutney",
+                    "Ragi Dosa with Sambar",
+                    "Vegetable Poha",
+                    "Besan Cheela with Spinach"
+                ],
+                "non-veg": [
+                    "Chicken Poha",
+                    "Boiled Eggs with Masala Rice",
+                    "Egg Kathi Roll",
+                    "Fish Curry with Bajra Roti",
+                    "Chicken Pulao"
+                ],
+                "vegan": [
+                    "Almond Butter on Whole Wheat Toast",
+                    "Quinoa Pancakes with Maple Syrup",
+                    "Avocado Smoothie Bowl",
+                    "Sweet Potato Hash with Spinach",
+                    "Ragi Porridge with Berries"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Khakhra with Pickle",
+                    "Banana Chips (Homemade)",
+                    "Rajma Sundal",
+                    "Cucumber Sandwich",
+                    "Sweet Corn Chaat"
+                ],
+                "non-veg": [
+                    "Grilled Prawns with Lemon",
+                    "Chicken Seekh Kebab",
+                    "Egg Salad with Mustard",
+                    "Fish Fingers with Mango Salsa",
+                    "Turkey Lettuce Wraps"
+                ],
+                "vegan": [
+                    "Baked Plantain Chips",
+                    "Dates with Almond Butter",
+                    "Carrot Sticks with Tahini Dip",
+                    "Guava Salad with Rock Salt",
+                    "Sesame Seeds and Jaggery Bar"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi with Curd",
+                    "Palak Dal with Brown Rice",
+                    "Mixed Vegetable Curry with Roti",
+                    "Chana Masala with Quinoa",
+                    "Vegetable Pulao with Raita"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Quinoa Salad",
+                    "Fish Curry with Brown Rice",
+                    "Chicken Biryani with Raita",
+                    "Egg Curry with Whole Wheat Chapati",
+                    "Mutton Curry with Jeera Rice"
+                ],
+                "vegan": [
+                    "Chickpea and Spinach Stew with Rice",
+                    "Tofu Stir-Fry with Vegetables",
+                    "Lentil Soup with Quinoa",
+                    "Vegetable and Brown Rice Bowl",
+                    "Vegan Stuffed Peppers"
+                ]
+            },
+            "evening snack": {
+                "veg": [
+                    "Masala Chaas (Buttermilk)",
+                    "Roasted Peanuts with Spices",
+                    "Vegetable Soup",
+                    "Baked Sweet Potato Wedges",
+                    "Fruit Chaat"
+                ],
+                "non-veg": [
+                    "Chicken Soup with Vegetables",
+                    "Grilled Fish with Lemon",
+                    "Egg Salad with Spinach",
+                    "Turkey and Veggie Wrap",
+                    "Shrimp Cocktail"
+                ],
+                "vegan": [
+                    "Coconut Water with Chia Seeds",
+                    "Roasted Pumpkin Seeds",
+                    "Sliced Carrots with Hummus",
+                    "Fruit Salad with Lime",
+                    "Almond Milk Smoothie"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir-Fry with Brown Rice",
+                    "Dal Tadka with Roti",
+                    "Palak Paneer with Quinoa",
+                    "Mixed Vegetable Curry with Bajra Roti",
+                    "Kadhi with Rice"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Steamed Vegetables",
+                    "Fish Curry with Quinoa",
+                    "Mutton Rogan Josh with Brown Rice",
+                    "Chicken and Vegetable Stir Fry",
+                    "Eggplant and Chicken Curry"
+                ],
+                "vegan": [
+                    "Tofu and Vegetable Curry with Rice",
+                    "Chickpea and Spinach Salad",
+                    "Vegan Thai Green Curry with Brown Rice",
+                    "Stuffed Zucchini with Quinoa",
+                    "Lentil and Vegetable Stew"
+                ]
+            }
+        },
+        "Sunday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Sevai",
+                    "Rava Idli with Tomato Chutney",
+                    "Methi Paratha with Low-Fat Curd",
+                    "Chana Dal Pancakes",
+                    "Broken Wheat Upma"
+                ],
+                "non-veg": [
+                    "Egg and Chicken Sausage Wrap",
+                    "Prawn Masala on Whole Wheat Toast",
+                    "Grilled Chicken and Veggie Scramble",
+                    "Scrambled Eggs with Mushrooms and Spinach",
+                    "Chicken and Egg Wrap"
+                ],
+                "vegan": [
+                    "Green Smoothie with Kale, Banana, and Almond Milk",
+                    "Buckwheat Pancakes with Maple Syrup",
+                    "Chia Pudding with Berries",
+                    "Tofu and Mushroom Stir Fry",
+                    "Oats and Apple Porridge"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Almonds and Walnuts",
+                    "Vegetable Slices with Hummus",
+                    "Buttermilk with Curry Leaves",
+                    "Roasted Chana",
+                    "Fruit Salad with Kiwi"
+                ],
+                "non-veg": [
+                    "Chicken Salad with Olive Oil and Lemon",
+                    "Hard-Boiled Egg with Mustard",
+                    "Tuna and Cucumber Salad",
+                    "Grilled Chicken Wings",
+                    "Fish Soup with Ginger"
+                ],
+                "vegan": [
+                    "Fresh Papaya Slices",
+                    "Almond Butter with Dates",
+                    "Baked Kale Chips",
+                    "Masala Roasted Cashews",
+                    "Carrot and Beetroot Sticks with Tahini"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi with Cucumber Raita",
+                    "Spinach and Lentil Soup",
+                    "Paneer Tikka with Veggies",
+                    "Moong Dal and Cucumber Salad",
+                    "Vegetable Quinoa Salad"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Avocado",
+                    "Fish Curry with Brown Rice",
+                    "Mutton Keema with Quinoa",
+                    "Grilled Chicken Salad",
+                    "Baked Fish with Asparagus"
+                ],
+                "vegan": [
+                    "Chickpea and Spinach Salad with Lemon Dressing",
+                    "Vegan Cauliflower Rice Stir-Fry",
+                    "Lentil and Vegetable Soup",
+                    "Quinoa Salad with Roasted Veggies",
+                    "Stuffed Zucchini with Couscous"
+                ]
+            },
+            "evening snack": {
+                "veg": [
+                    "Coconut Water with Lime",
+                    "Roasted Makhana",
+                    "Apple with Cinnamon",
+                    "Vegetable Soup",
+                    "Sliced Pear with Walnuts"
+                ],
+                "non-veg": [
+                    "Grilled Chicken Wings",
+                    "Fish Soup with Ginger",
+                    "Boiled Eggs with Lime",
+                    "Protein Shake with Almond Milk",
+                    "Chicken and Vegetable Soup"
+                ],
+                "vegan": [
+                    "Mango with Lime",
+                    "Steamed Edamame",
+                    "Chia Seed Pudding with Mango",
+                    "Roasted Chickpeas",
+                    "Sliced Papaya with Lime"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir-Fry with Brown Rice",
+                    "Methi and Moong Dal Soup",
+                    "Quinoa Vegetable Pulao",
+                    "Zucchini and Tomato Soup",
+                    "Masoor Dal with Spinach"
+                ],
+                "non-veg": [
+                    "Grilled Fish with Lemon",
+                    "Chicken and Broccoli Stir Fry",
+                    "Lamb Chops with Roasted Veggies",
+                    "Baked Cod with Spinach",
+                    "Chicken with Vegetable Mash"
+                ],
+                "vegan": [
+                    "Sweet Potato and Lentil Stew",
+                    "Stir-Fried Tofu with Vegetables",
+                    "Chickpea and Spinach Curry",
+                    "Zucchini Noodles with Tomato Sauce",
+                    "Vegetable Stir Fry with Quinoa"
+                ]
+            }
+        }
+    },
+    "no_diabetic": {
+        "Monday": {
+            "breakfast": {
+                "veg": [
+                    "Aloo Paratha with Low-fat Curd",
+                    "Vegetable Semolina Upma",
+                    "Poha with Sweet Corn",
+                    "Masala Idli with Coconut Chutney",
+                    "Methi Thepla"
+                ],
+                "non-veg": [
+                    "Chicken Sandwich with Whole Grain Bread",
+                    "Egg Paratha with Spinach",
+                    "Masala Egg Toast",
+                    "Fish Curry with Rice",
+                    "Idli with Keema Pulao"
+                ],
+                "vegan": [
+                    "Vegan Banana Pancakes",
+                    "Millet and Vegetable Porridge",
+                    "Tofu Bhurji with Toast",
+                    "Chia Seeds Pudding with Dates",
+                    "Avocado Toast on Multigrain Bread"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Sliced Pear with Honey",
+                    "Sweet Potato Chips",
+                    "Roasted Cashews",
+                    "Mango Lassi (Low Sugar)",
+                    "Paneer Cubes with Lemon"
+                ],
+                "non-veg": [
+                    "Chicken Sausages with Mustard Dip",
+                    "Hard-Boiled Eggs with Spices",
+                    "Grilled Shrimp",
+                    "Fish Cutlets",
+                    "Tuna Salad"
+                ],
+                "vegan": [
+                    "Guava Slices with Black Pepper",
+                    "Vegan Lassi (Coconut Milk)",
+                    "Roasted Pumpkin Seeds",
+                    "Watermelon Salad",
+                    "Sunflower Seeds with Raisins"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Paneer Butter Masala with Jeera Rice",
+                    "Palak Kofta with Rice",
+                    "Veg Pulao with Cashews",
+                    "Ghee Rice with Dal Fry",
+                    "Bisi Bele Bath"
+                ],
+                "non-veg": [
+                    "Chicken Tikka Masala with Naan",
+                    "Mutton Biryani",
+                    "Prawns Curry with Rice",
+                    "Tandoori Fish with Veg Pulao",
+                    "Egg Curry with Rice"
+                ],
+                "vegan": [
+                    "Mixed Vegetable Curry with Rice",
+                    "Chickpea and Spinach Stew",
+                    "Stir-fried Tofu with Quinoa",
+                    "Lentil and Sweet Potato Dal with Rice",
+                    "Barley and Vegetable Soup"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Masala Papad",
+                    "Dry Fruit Chikki",
+                    "Spiced Boiled Corn",
+                    "Samosa (Baked)",
+                    "Coconut Laddoo"
+                ],
+                "non-veg": [
+                    "Chicken Soup with Lemon",
+                    "Fish Fingers",
+                    "Grilled Chicken Kebabs",
+                    "Crab Salad",
+                    "Turkey Roll with Veggies"
+                ],
+                "vegan": [
+                    "Roasted Sweet Potato with Chaat Masala",
+                    "Coconut Water with Chia Seeds",
+                    "Vegan Protein Bar",
+                    "Steamed Veggies with Hummus",
+                    "Fruit and Nut Mix"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Fried Rice",
+                    "Bhindi Masala with Chapati",
+                    "Gatte ki Sabzi with Bajra Roti",
+                    "Methi Dal with Rice",
+                    "Kadhi Pakora with Rice"
+                ],
+                "non-veg": [
+                    "Butter Chicken with Paratha",
+                    "Grilled Fish with Veg Stir Fry",
+                    "Lamb Curry with Roti",
+                    "Chicken Noodles with Veggies",
+                    "Fish Moilee with Rice"
+                ],
+                "vegan": [
+                    "Stuffed Bell Peppers with Tofu",
+                    "Vegan Coconut Curry with Rice",
+                    "Sweet Potato and Lentil Stew",
+                    "Quinoa Pilaf with Veggies",
+                    "Soba Noodles Stir-fried with Broccoli"
+                ]
+            }
+        },
+        "Tuesday": {
+            "breakfast": {
+                "veg": [
+                    "Masala Vermicelli",
+                    "Palak Paratha with Mint Chutney",
+                    "Vegetable Handvo",
+                    "Dal Cheela with Curd",
+                    "Daliya Upma"
+                ],
+                "non-veg": [
+                    "Chicken Poha",
+                    "Boiled Eggs with Masala Rice",
+                    "Egg Kathi Roll",
+                    "Fish Curry with Bajra Roti",
+                    "Chicken Pulao"
+                ],
+                "vegan": [
+                    "Almond Butter on Whole Wheat Toast",
+                    "Quinoa Pancakes with Maple Syrup",
+                    "Avocado Smoothie Bowl",
+                    "Sweet Potato Hash with Spinach",
+                    "Ragi Porridge with Berries"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Khakhra with Pickle",
+                    "Banana Chips (Homemade)",
+                    "Rajma Sundal",
+                    "Cucumber Sandwich",
+                    "Sweet Corn Chaat"
+                ],
+                "non-veg": [
+                    "Grilled Prawns with Lemon",
+                    "Chicken Seekh Kebab",
+                    "Egg Salad with Mustard",
+                    "Fish Fingers with Mango Salsa",
+                    "Turkey Lettuce Wraps"
+                ],
+                "vegan": [
+                    "Baked Plantain Chips",
+                    "Dates with Almond Butter",
+                    "Carrot Sticks with Tahini Dip",
+                    "Guava Salad with Rock Salt",
+                    "Sesame Seeds and Jaggery Bar"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Kurma with Appam",
+                    "Beetroot Paratha with Raita",
+                    "Rajma Curry with Jeera Rice",
+                    "Lemon Rice with Dal",
+                    "Lauki Kofta with Roti"
+                ],
+                "non-veg": [
+                    "Chicken Curry with Rice",
+                    "Fish Fry with Tamarind Rice",
+                    "Prawns Biryani",
+                    "Mutton Keema with Naan",
+                    "Tandoori Chicken with Veggie Quinoa"
+                ],
+                "vegan": [
+                    "Pumpkin and Lentil Stew with Rice",
+                    "Stir-Fried Tofu and Bok Choy",
+                    "Sweet Potato and Kale Curry",
+                    "Barley Risotto with Vegetables",
+                    "Vegan Mushroom Stroganoff"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Boiled Sweet Corn with Butter",
+                    "Chivda (Low-oil)",
+                    "Puffed Rice with Peanuts",
+                    "Rajgira Laddoo",
+                    "Baked Masala Nachos"
+                ],
+                "non-veg": [
+                    "Chicken and Veg Soup",
+                    "Deviled Eggs",
+                    "Fish Tikka",
+                    "Grilled Mutton Chops",
+                    "Tuna Salad"
+                ],
+                "vegan": [
+                    "Banana with Peanut Butter",
+                    "Almond Milk Smoothie",
+                    "Roasted Foxnuts",
+                    "Chia Seeds with Coconut Milk",
+                    "Papaya and Melon Salad"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Baingan Bharta with Bajra Roti",
+                    "Cabbage Stir Fry with Rice",
+                    "Dal Dhokli",
+                    "Chole with Bhatura",
+                    "Mixed Veg Kurma with Parotta"
+                ],
+                "non-veg": [
+                    "Prawns Masala with Rice",
+                    "Grilled Salmon with Roasted Vegetables",
+                    "Chicken Stew with Rice",
+                    "Turkey Biryani",
+                    "Fish Korma with Chapati"
+                ],
+                "vegan": [
+                    "Grilled Veggie Skewers with Millet",
+                    "Vegan Thai Green Curry with Jasmine Rice",
+                    "Tofu and Sweet Potato Stir Fry",
+                    "Lentil and Spinach Soup with Quinoa",
+                    "Vegan Dum Biryani"
+                ]
+            }
+        },
+        "Wednesday": {
+            "breakfast": {
+                "veg": [
+                    "Methi Thepla with Curd",
+                    "Vegetable Seviyan Upma",
+                    "Poha Cutlet",
+                    "Masala Moong Dal Idli",
+                    "Ragi Uttapam"
+                ],
+                "non-veg": [
+                    "Grilled Chicken Sandwich",
+                    "Scrambled Eggs with Whole Wheat Toast",
+                    "Fish Curry with Idli",
+                    "Mutton Keema with Bajra Roti",
+                    "Egg Muffins with Spinach"
+                ],
+                "vegan": [
+                    "Avocado Toast with Pumpkin Seeds",
+                    "Coconut Milk Porridge with Fruits",
+                    "Millet Pancakes with Jaggery Syrup",
+                    "Sweet Potato and Chickpea Hash",
+                    "Bajra Porridge with Dates"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Masala Papad",
+                    "Boiled Peanuts",
+                    "Fruit Chaat with Lemon",
+                    "Kachumber Salad",
+                    "Jowar Popcorn"
+                ],
+                "non-veg": [
+                    "Chicken Salad Wrap",
+                    "Fish Patties",
+                    "Boiled Egg with Mustard",
+                    "Smoked Salmon Roll",
+                    "Turkey Meat Slices"
+                ],
+                "vegan": [
+                    "Roasted Almonds and Walnuts",
+                    "Dates and Coconut Ladoo",
+                    "Apple Slices with Peanut Butter",
+                    "Steamed Sweet Corn with Herbs",
+                    "Cucumber Sticks with Guacamole"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Paneer Bhurji with Paratha",
+                    "Vegetable Khichdi with Curd",
+                    "Masoor Dal with Jeera Rice",
+                    "Aloo Baingan with Roti",
+                    "Spinach Rice with Dal Tadka"
+                ],
+                "non-veg": [
+                    "Fish Curry with Coconut Rice",
+                    "Butter Chicken with Paratha",
+                    "Egg Curry with Rice",
+                    "Chicken Dum Biryani",
+                    "Mutton Stew with Whole Wheat Bread"
+                ],
+                "vegan": [
+                    "Mixed Vegetable Korma with Millet",
+                    "Zucchini and Chickpea Stir Fry",
+                    "Red Lentil Soup with Quinoa",
+                    "Vegan Shepherd’s Pie with Sweet Potato",
+                    "Stuffed Bell Peppers with Brown Rice"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Dhokla with Mint Chutney",
+                    "Flavored Buttermilk",
+                    "Puffed Rice Mixture",
+                    "Baked Masala Sweet Potato",
+                    "Rajma Tikki"
+                ],
+                "non-veg": [
+                    "Chicken and Spinach Soup",
+                    "Grilled Prawns with Bell Peppers",
+                    "Deviled Eggs with Paprika",
+                    "Mutton Kebabs",
+                    "Tuna Salad"
+                ],
+                "vegan": [
+                    "Roasted Pumpkin Seeds",
+                    "Coconut Yogurt with Berries",
+                    "Oatmeal Energy Bites",
+                    "Chia Seed Pudding with Mango",
+                    "Carrot and Cucumber Sticks with Almond Butter"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Bharwa Karela with Roti",
+                    "Veg Hakka Noodles",
+                    "Dal Palak with Rice",
+                    "Aloo Gobi with Paratha",
+                    "Rajma Masala with Bajra Roti"
+                ],
+                "non-veg": [
+                    "Grilled Fish with Stir-Fried Veggies",
+                    "Chicken Curry with Millet Roti",
+                    "Prawns Coconut Curry with Rice",
+                    "Mutton Curry with Chapati",
+                    "Turkey Meatball Soup"
+                ],
+                "vegan": [
+                    "Vegan Thai Red Curry with Rice",
+                    "Lentil and Sweet Potato Casserole",
+                    "Tofu Stir Fry with Soba Noodles",
+                    "Grilled Veggie Burger with Millet Bun",
+                    "Spinach and Chickpea Stew with Quinoa"
+                ]
+            }
+        },
+        "Thursday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Pesarattu with Tomato Chutney",
+                    "Broken Wheat Upma",
+                    "Palak Poori with Aloo Raita",
+                    "Methi Rice with Curd",
+                    "Cornflakes Chivda"
+                ],
+                "non-veg": [
+                    "Egg and Cheese Paratha",
+                    "Grilled Fish Tacos",
+                    "Chicken Sausage with Mashed Sweet Potatoes",
+                    "Shrimp Omelette",
+                    "Mutton Liver Curry with Bajra Roti"
+                ],
+                "vegan": [
+                    "Quinoa Breakfast Bowl with Avocado",
+                    "Buckwheat Pancakes with Maple Syrup",
+                    "Chana Dal Pancakes with Mint Dip",
+                    "Tofu Scramble with Spinach",
+                    "Steamed Ragi Puttu with Coconut"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Poha Chivda",
+                    "Boiled Rajma with Masala",
+                    "Masala Roasted Makhanas",
+                    "Sprouted Chana Salad",
+                    "Aloo Chaat"
+                ],
+                "non-veg": [
+                    "Tuna Roll",
+                    "Grilled Chicken Kebab Skewers",
+                    "Egg White Salad",
+                    "Fish Fingers",
+                    "Chicken and Lettuce Wrap"
+                ],
+                "vegan": [
+                    "Coconut Chips with Dried Fruits",
+                    "Cucumber and Bell Pepper Sticks with Tahini Dip",
+                    "Date Energy Balls",
+                    "Watermelon and Mint Salad",
+                    "Toasted Pumpkin Seeds"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Kadai Paneer with Jeera Rice",
+                    "Lauki Kofta Curry with Roti",
+                    "Mixed Vegetable Handvo",
+                    "Palak Khichdi",
+                    "Baingan Bharta with Bajra Roti"
+                ],
+                "non-veg": [
+                    "Prawn Curry with Rice",
+                    "Grilled Chicken with Couscous",
+                    "Fish Biryani",
+                    "Mutton Kofta Curry with Paratha",
+                    "Egg Masala with Jeera Rice"
+                ],
+                "vegan": [
+                    "Spinach and Tofu Curry with Millet",
+                    "Quinoa Stir-Fry with Vegetables",
+                    "Vegetable and Lentil Stew",
+                    "Cauliflower Rice with Chickpea Curry",
+                    "Thai Basil Tofu with Rice"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Chana Sundal",
+                    "Masala Idli Bites",
+                    "Beetroot and Carrot Sticks with Yogurt Dip",
+                    "Spiced Jowar Puffs",
+                    "Paneer Tikka"
+                ],
+                "non-veg": [
+                    "Chicken Caesar Salad",
+                    "Fish Soup",
+                    "Hard-Boiled Egg with Herbs",
+                    "Turkey Sandwich",
+                    "Grilled Shrimp with Lemon"
+                ],
+                "vegan": [
+                    "Almond Butter on Multigrain Toast",
+                    "Coconut Water with Chia Seeds",
+                    "Sweet Potato Chips",
+                    "Apple and Walnut Salad",
+                    "Banana Oatmeal Bars"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Palak Paneer with Roti",
+                    "Rajma Pulao",
+                    "Dal Dhokli",
+                    "Veggie Burrito Bowl",
+                    "Tinda Curry with Bajra Roti"
+                ],
+                "non-veg": [
+                    "Lemon Herb Grilled Fish",
+                    "Chicken Stir Fry with Noodles",
+                    "Mutton Curry with Brown Rice",
+                    "Tandoori Prawns with Stuffed Zucchini",
+                    "Sweet Potato and Kale Soup"
+                ],
+                "vegan": [
+                    "Vegetable Thai Green Curry with Brown Rice",
+                    "Lentil and Veggie Quinoa",
+                    "Turkey Chili with Lentils Wraps",
+                    "Grilled Tofu with Stir-Fried Vegetables",
+                    "Vegan Dum Biryani"
+                ]
+            }
+        },
+        "Friday": {
+            "breakfast": {
+                "veg": [
+                    "Bajra Upma with Vegetables",
+                    "Masala Oats with Paneer",
+                    "Mixed Vegetable Thepla with Mint Chutney",
+                    "Barley Idli",
+                    "Methi Dal Khichdi"
+                ],
+                "non-veg": [
+                    "Egg and Spinach Wrap",
+                    "Grilled Chicken and Sweet Potato Hash",
+                    "Fish Curry with Brown Rice",
+                    "Idli with Mutton Pepper Fry",
+                    "Scrambled Eggs with Bell Peppers"
+                ],
+                "vegan": [
+                    "Vegan Millet Pancakes with Date Syrup",
+                    "Avocado Toast with Sunflower Seeds",
+                    "Almond Milk Smoothie Bowl with Chia Seeds",
+                    "Ragi Mudde with Coconut Chutney",
+                    "Veggie Tofu Scramble"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Sweet Potato Chatpata",
+                    "Masala Roasted Lentils",
+                    "Boiled Sprouted Moth Beans",
+                    "Beetroot Tikki",
+                    "Jowar Chips with Yogurt Dip"
+                ],
+                "non-veg": [
+                    "Chicken Nuggets",
+                    "Grilled Shrimp with Lemon Dip",
+                    "Spiced Egg Muffins",
+                    "Turkey and Avocado Salad",
+                    "Fish Tikka"
+                ],
+                "vegan": [
+                    "Roasted Foxnuts with Mint",
+                    "Carrot and Zucchini Sticks with Peanut Butter",
+                    "Fresh Pineapple Cubes with Cinnamon",
+                    "Mixed Berry Bowl",
+                    "Toasted Sesame Seeds with Flax Crackers"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Bhindi Masala with Bajra Roti",
+                    "Vegetable Jowar Khichdi",
+                    "Paneer Bhurji with Quinoa",
+                    "Lauki Dal Curry with Roti",
+                    "Gatte ki Sabzi"
+                ],
+                "non-veg": [
+                    "Prawn Fried Rice",
+                    "Mutton Curry with Wheat Phulka",
+                    "Lemon Pepper Chicken with Couscous",
+                    "Egg Curry with Ragi Mudde",
+                    "Grilled Fish in Coconut Sauce"
+                ],
+                "vegan": [
+                    "Vegetable and Lentil Pilaf",
+                    "Stir-Fried Tofu with Bok Choy",
+                    "Stuffed Cabbage Rolls with Millet",
+                    "Roasted Eggplant with Quinoa",
+                    "Thai Pumpkin Curry with Jasmine Rice"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Bhel Puri with Sprouts",
+                    "Mango Lassi (Low Sugar)",
+                    "Soya Bean Chaat",
+                    "Corn and Cucumber Salad",
+                    "Multigrain Toast with Yogurt Spread"
+                ],
+                "non-veg": [
+                    "Grilled Chicken and Bell Pepper Skewers",
+                    "Crab Salad",
+                    "Turkey Wrap",
+                    "Boiled Eggs with Black Pepper",
+                    "Mutton Soup"
+                ],
+                "vegan": [
+                    "Coconut Water with Pineapple Chunks",
+                    "Almond and Date Bars",
+                    "Baked Veggie Chips",
+                    "Kiwi and Orange Salad",
+                    "Masala Roasted Almonds"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Veggie Stuffed Paratha with Raita",
+                    "Palak Dal with Jeera Rice",
+                    "Tomato Shorba with Bajra Roti",
+                    "Kadhi Pakora with Brown Rice",
+                    "Mushroom Masala with Chapati"
+                ],
+                "non-veg": [
+                    "Grilled Salmon with Asparagus",
+                    "Chicken Stew with Barley",
+                    "Mutton Seekh Kebab with Quinoa Salad",
+                    "Garlic Prawns with Couscous",
+                    "Turkey Mince Curry with Whole Wheat Bread"
+                ],
+                "vegan": [
+                    "Grilled Vegetables with Hummus",
+                    "Black Bean and Quinoa Burgers",
+                    "Lentil Stew with Sweet Potatoes",
+                    "Thai Green Curry with Tofu and Rice",
+                    "Chickpea and Spinach Stir Fry"
+                ]
+            }
+        },
+        "Saturday": {
+            "breakfast": {
+                "veg": [
+                    "Sabudana Khichdi with Peanuts",
+                    "Barley Pongal",
+                    "Moong Dal Dosa with Coconut Chutney",
+                    "Multigrain Bread Sandwich with Veggies",
+                    "Besan Pancakes"
+                ],
+                "non-veg": [
+                    "Tuna Sandwich on Multigrain Bread",
+                    "Chicken Mince Porridge",
+                    "Grilled Salmon and Sweet Potato Mash",
+                    "Egg Bhurji with Spinach Roti",
+                    "Fish Curry with Foxtail Millet"
+                ],
+                "vegan": [
+                    "Banana Oats Smoothie",
+                    "Sweet Potato Hash with Tofu",
+                    "Bajra Idli with Tomato Chutney",
+                    "Barley Pancakes with Date Syrup",
+                    "Veggie Millet Bowl with Coconut Milk"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Boiled Peanuts with Lemon",
+                    "Baked Ragi Chips",
+                    "Watermelon and Feta Salad",
+                    "Jowar Puff Bhel",
+                    "Sweet Potato Sticks"
+                ],
+                "non-veg": [
+                    "Chicken Tikka Skewers",
+                    "Grilled Fish with Lemon",
+                    "Turkey Breast with Lettuce Wraps",
+                    "Boiled Egg with Guacamole",
+                    "Tuna Salad"
+                ],
+                "vegan": [
+                    "Fresh Pomegranate Bowl",
+                    "Baked Kale Chips",
+                    "Masala Roasted Cashews",
+                    "Carrot and Beetroot Sticks with Tahini",
+                    "Coconut Water with Mint"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Baingan Bharta with Jowar Roti",
+                    "Spinach and Paneer Curry with Bajra Rice",
+                    "Vegetable Handvo",
+                    "Green Moong Dal with Whole Wheat Bread",
+                    "Stuffed Tinda Curry"
+                ],
+                "non-veg": [
+                    "Lemon Grilled Fish with Barley Risotto",
+                    "Chicken Tikka with Quinoa",
+                    "Prawn Curry with Brown Rice",
+                    "Egg Masala with Ragi Roti",
+                    "Mutton Stew with Whole Wheat Rolls"
+                ],
+                "vegan": [
+                    "Tofu Stir-Fry with Bell Peppers",
+                    "Chickpea and Spinach Curry with Brown Rice",
+                    "Quinoa and Lentil Salad",
+                    "Millet Soup with Roasted Vegetables",
+                    "Coconut Curry with Jackfruit and Rice"
+                ]
+            },
+            "mid_day_snack": {
+                "veg": [
+                    "Steamed Dhokla with Mint Chutney",
+                    "Amla Juice with Cucumber Slices",
+                    "Barley and Vegetable Soup",
+                    "Low-Fat Yogurt with Honey",
+                    "Bhel with Peanuts"
+                ],
+                "non-veg": [
+                    "Grilled Chicken Salad with Olive Oil Dressing",
+                    "Crab Soup",
+                    "Turkey Meatballs",
+                    "Egg and Spinach Rolls",
+                    "Roasted Mutton Strips"
+                ],
+                "vegan": [
+                    "Green Smoothie with Spinach and Banana",
+                    "Mixed Fruit Salad with Melon",
+                    "Roasted Chickpeas with Paprika",
+                    "Almond Milk Chia Pudding",
+                    "Dates and Sunflower Seeds"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Methi Thepla with Yogurt",
+                    "Palak Kofta Curry with Jowar Roti",
+                    "Pumpkin Dal with Brown Rice",
+                    "Vegetable Stew with Ragi Ball",
+                    "Rajma Curry with Bajra Roti"
+                ],
+                "non-veg": [
+                    "Garlic Butter Prawns with Couscous",
+                    "Chicken Curry with Multigrain Rice",
+                    "Grilled Salmon with Vegetable Stir Fry",
+                    "Turkey and Spinach Lasagna",
+                    "Mutton Pepper Fry with Bajra Roti"
+                ],
+                "vegan": [
+                    "Grilled Zucchini and Bell Pepper Wraps",
+                    "Lentil and Sweet Potato Stew",
+                    "Thai Red Curry with Tofu and Rice",
+                    "Millet Pilaf with Vegetables",
+                    "Soba Noodles with Stir-Fried Mushrooms"
+                ]
+            }
+        },
+        "Sunday": {
+            "breakfast": {
+                "veg": [
+                    "Vegetable Sevai",
+                    "Rava Idli with Tomato Chutney",
+                    "Methi Paratha with Cucumber Raita",
+                    "Chana Dal Pancakes",
+                    "Broken Wheat Upma"
+                ],
+                "non-veg": [
+                    "Egg and Chicken Sausage Wrap",
+                    "Prawn Masala on Whole Wheat Toast",
+                    "Grilled Chicken and Veggie Scramble",
+                    "Scrambled Eggs with Mushrooms and Spinach",
+                    "Chicken and Egg Wrap"
+                ],
+                "vegan": [
+                    "Green Smoothie with Kale, Banana, and Almond Milk",
+                    "Buckwheat Pancakes with Maple Syrup",
+                    "Chia Pudding with Berries",
+                    "Tofu and Mushroom Stir Fry",
+                    "Oats and Apple Porridge"
+                ]
+            },
+            "morning_snack": {
+                "veg": [
+                    "Roasted Almonds and Walnuts",
+                    "Vegetable Slices with Hummus",
+                    "Buttermilk with Curry Leaves",
+                    "Roasted Chana",
+                    "Fruit Salad with Kiwi"
+                ],
+                "non-veg": [
+                    "Chicken Salad with Olive Oil and Lemon",
+                    "Hard-Boiled Egg with Mustard",
+                    "Tuna and Cucumber Salad",
+                    "Grilled Chicken Wings",
+                    "Fish Soup with Ginger"
+                ],
+                "vegan": [
+                    "Fresh Papaya Slices",
+                    "Almond Butter with Dates",
+                    "Baked Kale Chips",
+                    "Masala Roasted Cashews",
+                    "Carrot and Beetroot Sticks with Tahini"
+                ]
+            },
+            "lunch": {
+                "veg": [
+                    "Vegetable Khichdi with Cucumber Raita",
+                    "Spinach and Lentil Soup",
+                    "Paneer Tikka with Veggies",
+                    "Moong Dal and Cucumber Salad",
+                    "Vegetable Quinoa Salad"
+                ],
+                "non-veg": [
+                    "Grilled Chicken with Avocado",
+                    "Fish Curry with Brown Rice",
+                    "Mutton Keema with Quinoa",
+                    "Grilled Chicken Salad",
+                    "Baked Fish with Asparagus"
+                ],
+                "vegan": [
+                    "Chickpea and Spinach Salad with Lemon Dressing",
+                    "Vegan Cauliflower Rice Stir-Fry",
+                    "Lentil and Vegetable Soup",
+                    "Quinoa Salad with Roasted Veggies",
+                    "Stuffed Zucchini with Couscous"
+                ]
+            },
+            "evening snack": {
+                "veg": [
+                    "Coconut Water with Lime",
+                    "Roasted Makhana",
+                    "Apple with Cinnamon",
+                    "Vegetable Soup",
+                    "Sliced Pear with Walnuts"
+                ],
+                "non-veg": [
+                    "Grilled Chicken Wings",
+                    "Fish Soup with Ginger",
+                    "Boiled Eggs with Lime",
+                    "Protein Shake with Almond Milk",
+                    "Chicken and Vegetable Soup"
+                ],
+                "vegan": [
+                    "Mango with Lime",
+                    "Steamed Edamame",
+                    "Chia Seed Pudding with Mango",
+                    "Roasted Chickpeas",
+                    "Sliced Papaya with Lime"
+                ]
+            },
+            "dinner": {
+                "veg": [
+                    "Vegetable Stir-Fry with Brown Rice",
+                    "Methi and Moong Dal Soup",
+                    "Quinoa Vegetable Pulao",
+                    "Zucchini and Tomato Soup",
+                    "Masoor Dal with Spinach"
+                ],
+                "non-veg": [
+                    "Grilled Fish with Lemon",
+                    "Chicken and Broccoli Stir Fry",
+                    "Lamb Chops with Roasted Veggies",
+                    "Baked Cod with Spinach",
+                    "Chicken with Vegetable Mash"
+                ],
+                "vegan": [
+                    "Sweet Potato and Lentil Stew",
+                    "Stir-Fried Tofu with Vegetables",
+                    "Chickpea and Spinach Curry",
+                    "Zucchini Noodles with Tomato Sauce",
+                    "Vegetable Stir Fry with Quinoa"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+version: "3.1"
+
+stories:
+- story: Provide meal recommendation
+  steps:
+  - intent: get_meal_recommendation
+  - action: meal_recommendation_form
+  - active_loop: meal_recommendation_form
+  - active_loop: null
+  - action: utter_slots_values  # ✅ Keep this step
+  - action: action_recommend_meal  # ✅ Ensure this matches rules.yml
+

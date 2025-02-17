@@ -1,0 +1,387 @@
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: None, Day: None, Meal Type: None, Meal Time: None
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: None, Day: None, Meal Type: None, Meal Time: None
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: What should I eat for breakfast on Monday if I have mild diabetes?, Day: What should I eat for breakfast on Monday if I have mild diabetes?, Meal Type: What should I eat for breakfast on Monday if I have mild diabetes?, Meal Time: What should I eat for breakfast on Monday if I have mild diabetes?
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild, Day: Monday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild diabetes on Monday, dinner (vegan) options are: Tofu and Vegetable Curry with Rice, Chickpea and Spinach Salad, Vegan Thai Green Curry with Brown Rice, Stuffed Zucchini with Quinoa, Lentil and Vegetable Stew.
+✅ Final Response: For mild diabetes on Monday, dinner (vegan) options are: Tofu and Vegetable Curry with Rice, Chickpea and Spinach Salad, Vegan Thai Green Curry with Brown Rice, Stuffed Zucchini with Quinoa, Lentil and Vegetable Stew.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetes?severe, Day: Monday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild, Day: Monday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild diabetes on Monday, dinner (vegan) options are: Tofu and Vegetable Curry with Rice, Chickpea and Spinach Salad, Vegan Thai Green Curry with Brown Rice, Stuffed Zucchini with Quinoa, Lentil and Vegetable Stew.
+✅ Final Response: For mild diabetes on Monday, dinner (vegan) options are: Tofu and Vegetable Curry with Rice, Chickpea and Spinach Salad, Vegan Thai Green Curry with Brown Rice, Stuffed Zucchini with Quinoa, Lentil and Vegetable Stew.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: sever, Day: Monday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe, Day: Monday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetes, Day: Monday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Monday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Monday, dinner (vegan) options are: Grilled Tofu with Broccoli, Sweet Potato Mash with Lentil Soup, Vegetable and Coconut Curry with Red Rice, Amaranth Roti with Vegetable Curry, Vegan Spinach Soup with Quinoa.
+✅ Final Response: For severe_diabetic diabetes on Monday, dinner (vegan) options are: Grilled Tofu with Broccoli, Sweet Potato Mash with Lentil Soup, Vegetable and Coconut Curry with Red Rice, Amaranth Roti with Vegetable Curry, Vegan Spinach Soup with Quinoa.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild, Day: Monday, Meal Type: veg, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild diabetes on Monday, dinner (veg) options are: Vegetable Stir-Fry with Brown Rice, Dal Tadka with Roti, Palak Paneer with Quinoa, Mixed Vegetable Curry with Bajra Roti, Kadhi with Rice.
+✅ Final Response: For mild diabetes on Monday, dinner (veg) options are: Vegetable Stir-Fry with Brown Rice, Dal Tadka with Roti, Palak Paneer with Quinoa, Mixed Vegetable Curry with Bajra Roti, Kadhi with Rice.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Sunday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Sunday, dinner (vegan) options are: Sweet Potato and Lentil Stew, Stir-Fried Tofu with Vegetables, Chickpea and Spinach Curry, Zucchini Noodles with Tomato Sauce, Vegetable Stir Fry with Quinoa.
+✅ Final Response: For severe_diabetic diabetes on Sunday, dinner (vegan) options are: Sweet Potato and Lentil Stew, Stir-Fried Tofu with Vegetables, Chickpea and Spinach Curry, Zucchini Noodles with Tomato Sauce, Vegetable Stir Fry with Quinoa.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Sunday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Sunday, dinner (vegan) options are: Sweet Potato and Lentil Stew, Stir-Fried Tofu with Vegetables, Chickpea and Spinach Curry, Zucchini Noodles with Tomato Sauce, Vegetable Stir Fry with Quinoa.
+✅ Final Response: For severe_diabetic diabetes on Sunday, dinner (vegan) options are: Sweet Potato and Lentil Stew, Stir-Fried Tofu with Vegetables, Chickpea and Spinach Curry, Zucchini Noodles with Tomato Sauce, Vegetable Stir Fry with Quinoa.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Sunday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Sunday, dinner (vegan) options are: Sweet Potato and Lentil Stew, Stir-Fried Tofu with Vegetables, Chickpea and Spinach Curry, Zucchini Noodles with Tomato Sauce, Vegetable Stir Fry with Quinoa.
+✅ Final Response: For severe_diabetic diabetes on Sunday, dinner (vegan) options are: Sweet Potato and Lentil Stew, Stir-Fried Tofu with Vegetables, Chickpea and Spinach Curry, Zucchini Noodles with Tomato Sauce, Vegetable Stir Fry with Quinoa.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Sunday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Sunday, dinner (vegan) options are: Sweet Potato and Lentil Stew, Stir-Fried Tofu with Vegetables, Chickpea and Spinach Curry, Zucchini Noodles with Tomato Sauce, Vegetable Stir Fry with Quinoa.
+✅ Final Response: For severe_diabetic diabetes on Sunday, dinner (vegan) options are: Sweet Potato and Lentil Stew, Stir-Fried Tofu with Vegetables, Chickpea and Spinach Curry, Zucchini Noodles with Tomato Sauce, Vegetable Stir Fry with Quinoa.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Monday, Meal Type: veg, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Monday, dinner (veg) options are: Bajra Roti with Brinjal Curry, Moong Dal Dhokla, Quinoa and Mixed Vegetable Curry, Millet Khichdi, Bottle Gourd Soup with Brown Rice.
+✅ Final Response: For severe_diabetic diabetes on Monday, dinner (veg) options are: Bajra Roti with Brinjal Curry, Moong Dal Dhokla, Quinoa and Mixed Vegetable Curry, Millet Khichdi, Bottle Gourd Soup with Brown Rice.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Monday, Meal Type: vegeterian, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No dinner options available for vegeterian on Monday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Monday, Meal Type: vegeterian, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No dinner options available for vegeterian on Monday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Monday, Meal Type: vegeterian, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No breakfast options available for vegeterian on Monday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Monday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Monday, breakfast (veg) options are: Barley Idli with Coconut Chutney, Masoor Dal Cheela, Bajra Upma with Vegetables, Kodo Millet Porridge, Cucumber and Tomato Sandwich (Whole Grain Bread).
+✅ Final Response: For severe_diabetic diabetes on Monday, breakfast (veg) options are: Barley Idli with Coconut Chutney, Masoor Dal Cheela, Bajra Upma with Vegetables, Kodo Millet Porridge, Cucumber and Tomato Sandwich (Whole Grain Bread).
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Sunday, Meal Type: vegan, Meal Time: evening snack
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Sunday, evening snack (vegan) options are: Mango with Lime, Steamed Edamame, Chia Seed Pudding with Mango, Roasted Chickpeas, Sliced Papaya with Lime.
+✅ Final Response: For severe_diabetic diabetes on Sunday, evening snack (vegan) options are: Mango with Lime, Steamed Edamame, Chia Seed Pudding with Mango, Roasted Chickpeas, Sliced Papaya with Lime.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: profiliative, Day: Tuesday, Meal Type: vegan, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: profiliative, Day: Tuesday, Meal Type: vegan, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: profiliative, Day: Tuesday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Monday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Monday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Monday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Monday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Monday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Sunday, Meal Type: vegan, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Sunday, breakfast (vegan) options are: Green Smoothie with Kale, Banana, and Almond Milk, Buckwheat Pancakes with Maple Syrup, Chia Pudding with Berries, Tofu and Mushroom Stir Fry, Oats and Apple Porridge.
+✅ Final Response: For severe_diabetic diabetes on Sunday, breakfast (vegan) options are: Green Smoothie with Kale, Banana, and Almond Milk, Buckwheat Pancakes with Maple Syrup, Chia Pudding with Berries, Tofu and Mushroom Stir Fry, Oats and Apple Porridge.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Monday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Sunday, Meal Type: vegan, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Sunday, breakfast (vegan) options are: Green Smoothie with Kale, Banana, and Almond Milk, Buckwheat Pancakes with Maple Syrup, Chia Pudding with Berries, Tofu and Mushroom Stir Fry, Oats and Apple Porridge.
+✅ Final Response: For severe_diabetic diabetes on Sunday, breakfast (vegan) options are: Green Smoothie with Kale, Banana, and Almond Milk, Buckwheat Pancakes with Maple Syrup, Chia Pudding with Berries, Tofu and Mushroom Stir Fry, Oats and Apple Porridge.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Sunday, Meal Type: vegan, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Sunday, breakfast (vegan) options are: Green Smoothie with Kale, Banana, and Almond Milk, Buckwheat Pancakes with Maple Syrup, Chia Pudding with Berries, Tofu and Mushroom Stir Fry, Oats and Apple Porridge.
+✅ Final Response: For severe_diabetic diabetes on Sunday, breakfast (vegan) options are: Green Smoothie with Kale, Banana, and Almond Milk, Buckwheat Pancakes with Maple Syrup, Chia Pudding with Berries, Tofu and Mushroom Stir Fry, Oats and Apple Porridge.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Monday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Monday, breakfast (veg) options are: Vegetable Upma with Peas, Moong Dal Chilla with Green Chutney, Ragi Dosa with Coconut Chutney, Vegetable Poha, Besan Cheela with Spinach.
+✅ Final Response: For mild_diabetic diabetes on Monday, breakfast (veg) options are: Vegetable Upma with Peas, Moong Dal Chilla with Green Chutney, Ragi Dosa with Coconut Chutney, Vegetable Poha, Besan Cheela with Spinach.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Monday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Monday, breakfast (veg) options are: Vegetable Upma with Peas, Moong Dal Chilla with Green Chutney, Ragi Dosa with Coconut Chutney, Vegetable Poha, Besan Cheela with Spinach.
+✅ Final Response: For mild_diabetic diabetes on Monday, breakfast (veg) options are: Vegetable Upma with Peas, Moong Dal Chilla with Green Chutney, Ragi Dosa with Coconut Chutney, Vegetable Poha, Besan Cheela with Spinach.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: proliferative, Day: Wednesday, Meal Type: non-veg, Meal Time: morning snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: proliferative, Day: Wednesday, Meal Type: non-veg, Meal Time: morning snack
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For proliferative diabetes on Wednesday, morning snack (non-veg) options are: Grilled Fish Fingers, Hard-Boiled Eggs, Tuna Salad, Grilled Chicken Skewers, Chicken Broth.
+✅ Final Response: For proliferative diabetes on Wednesday, morning snack (non-veg) options are: Grilled Fish Fingers, Hard-Boiled Eggs, Tuna Salad, Grilled Chicken Skewers, Chicken Broth.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: moderate, Day: Tuesday, Meal Type: non-veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Sunday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Sunday, breakfast (veg) options are: Vegetable Sevai, Rava Idli with Tomato Chutney, Methi Paratha with Low-Fat Curd, Chana Dal Pancakes, Broken Wheat Upma.
+✅ Final Response: For mild_diabetic diabetes on Sunday, breakfast (veg) options are: Vegetable Sevai, Rava Idli with Tomato Chutney, Methi Paratha with Low-Fat Curd, Chana Dal Pancakes, Broken Wheat Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: moderate, Day: Tuesday, Meal Type: veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no, Day: Tuesday, Meal Type: veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no, Day: Tuesday, Meal Type: veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no, Day: Tuesday, Meal Type: veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no, Day: Tuesday, Meal Type: veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for mid-day snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no, Day: Tuesday, Meal Type: veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no, Day: Tuesday, Meal Type: veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no, Day: Tuesday, Meal Type: veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no, Day: Tuesday, Meal Type: veg, Meal Time: mid-day snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Sunday, Meal Type: vegan, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Sunday, breakfast (vegan) options are: Green Smoothie with Kale, Banana, and Almond Milk, Buckwheat Pancakes with Maple Syrup, Chia Pudding with Berries, Tofu and Mushroom Stir Fry, Oats and Apple Porridge.
+✅ Final Response: For severe_diabetic diabetes on Sunday, breakfast (vegan) options are: Green Smoothie with Kale, Banana, and Almond Milk, Buckwheat Pancakes with Maple Syrup, Chia Pudding with Berries, Tofu and Mushroom Stir Fry, Oats and Apple Porridge.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Sunday, Meal Type: vegan, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Sunday, breakfast (vegan) options are: Green Smoothie with Kale, Banana, and Almond Milk, Buckwheat Pancakes with Maple Syrup, Chia Pudding with Berries, Tofu and Mushroom Stir Fry, Oats and Apple Porridge.
+✅ Final Response: For severe_diabetic diabetes on Sunday, breakfast (vegan) options are: Green Smoothie with Kale, Banana, and Almond Milk, Buckwheat Pancakes with Maple Syrup, Chia Pudding with Berries, Tofu and Mushroom Stir Fry, Oats and Apple Porridge.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Tuesday, Meal Type: veg, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: mid-day_snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for mid-day_snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: mid_day_snack
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, mid_day_snack (veg) options are: Boiled Sweet Corn with Butter, Chivda (Low-oil), Puffed Rice with Peanuts, Rajgira Laddoo, Baked Masala Nachos.
+✅ Final Response: For no_diabetic diabetes on Tuesday, mid_day_snack (veg) options are: Boiled Sweet Corn with Butter, Chivda (Low-oil), Puffed Rice with Peanuts, Rajgira Laddoo, Baked Masala Nachos.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: mid_day_snack
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, mid_day_snack (veg) options are: Boiled Sweet Corn with Butter, Chivda (Low-oil), Puffed Rice with Peanuts, Rajgira Laddoo, Baked Masala Nachos.
+✅ Final Response: For no_diabetic diabetes on Tuesday, mid_day_snack (veg) options are: Boiled Sweet Corn with Butter, Chivda (Low-oil), Puffed Rice with Peanuts, Rajgira Laddoo, Baked Masala Nachos.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Sat, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: moderate, Day: Tuesday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: moderate, Day: Friday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: moderate, Day: Friday, Meal Type: vegan, Meal Time: dinner
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Sat, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Sat, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Sat, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Sat, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Sat, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Sat, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Sat, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Sat, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Sat, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: mid_day_snack
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, mid_day_snack (veg) options are: Boiled Sweet Corn with Butter, Chivda (Low-oil), Puffed Rice with Peanuts, Rajgira Laddoo, Baked Masala Nachos.
+✅ Final Response: For no_diabetic diabetes on Tuesday, mid_day_snack (veg) options are: Boiled Sweet Corn with Butter, Chivda (Low-oil), Puffed Rice with Peanuts, Rajgira Laddoo, Baked Masala Nachos.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Tuesday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
+✅ Final Response: For mild_diabetic diabetes on Tuesday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Tuesday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
+✅ Final Response: For mild_diabetic diabetes on Tuesday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Saturday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Saturday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Saturday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
+✅ Final Response: For mild_diabetic diabetes on Saturday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Saturday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Saturday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Saturday, lunch (non-veg) options are: Lemon Grilled Fish with Barley Risotto, Chicken Tikka with Quinoa, Prawn Curry with Brown Rice, Egg Masala with Ragi Roti, Mutton Stew with Whole Wheat Rolls.
+✅ Final Response: For no_diabetic diabetes on Saturday, lunch (non-veg) options are: Lemon Grilled Fish with Barley Risotto, Chicken Tikka with Quinoa, Prawn Curry with Brown Rice, Egg Masala with Ragi Roti, Mutton Stew with Whole Wheat Rolls.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Saturday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Saturday, lunch (non-veg) options are: Lemon Grilled Fish with Barley Risotto, Chicken Tikka with Quinoa, Prawn Curry with Brown Rice, Egg Masala with Ragi Roti, Mutton Stew with Whole Wheat Rolls.
+✅ Final Response: For no_diabetic diabetes on Saturday, lunch (non-veg) options are: Lemon Grilled Fish with Barley Risotto, Chicken Tikka with Quinoa, Prawn Curry with Brown Rice, Egg Masala with Ragi Roti, Mutton Stew with Whole Wheat Rolls.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Saturday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Saturday, lunch (non-veg) options are: Lemon Grilled Fish with Barley Risotto, Chicken Tikka with Quinoa, Prawn Curry with Brown Rice, Egg Masala with Ragi Roti, Mutton Stew with Whole Wheat Rolls.
+✅ Final Response: For no_diabetic diabetes on Saturday, lunch (non-veg) options are: Lemon Grilled Fish with Barley Risotto, Chicken Tikka with Quinoa, Prawn Curry with Brown Rice, Egg Masala with Ragi Roti, Mutton Stew with Whole Wheat Rolls.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetes, Day: Saturday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: diabetic, Day: Saturday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetes, Day: Saturday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Saturday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Saturday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
+✅ Final Response: For mild_diabetic diabetes on Saturday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Monday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Monday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
+✅ Final Response: For mild_diabetic diabetes on Monday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.

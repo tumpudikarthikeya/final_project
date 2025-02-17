@@ -1,0 +1,639 @@
+# version: "3.1"
+
+# nlu:
+# - intent: get_meal_recommendation
+#   examples: |
+#     - What should I eat for [breakfast](meal_time) on [Monday](day) if I have [mild](diabetes_level) diabetes?
+#     - Suggest a [vegetarian](meal_type) [lunch](meal_time) for [moderate](diabetes_level) diabetes on [Tue](day).
+#     - Can you give me a [veg](meal_type) [dinner](meal_time) for [severe](diabetes_level) diabetes on [Fri](day)?
+#     - Recommend a [non-vegetarian](meal_type) [morning snack](meal_time) for my [proliferative](diabetes_level) diabetes on [Wednesday](day).
+#     - I have [moderate](diabetes_level) diabetes. What can I eat for [bf](meal_time) on [Sat](day)?
+#     - Give me a [vegan](meal_type) [mid_day_snack](meal_time) for [mild](diabetes_level) diabetes.
+#     - What is a good meal for a [veg](meal_type) [dinner](meal_time) if I have [mild](diabetes_level) diabetes on [Sunday](day)?
+#     - Can you provide a [vegan](meal_type) [lunch](meal_time) option for [moderate](diabetes_level) diabetes?
+#     - What should I eat for [breakfast](meal_time) if I have [proliferative](diabetes_level) diabetes on [Monday](day)?
+#     - I want a [veg](meal_type) [mid_day_snack](meal_time) for [severe](diabetes_level) diabetes on [Tuesday](day).
+#     - Recommend something healthy for [lunch](meal_time) if I have [no diabetes](diabetes_level) on [Wed](day).
+#     - Show me [non-veg](meal_type) options for [dinner](meal_time) on [Thursday](day) for [moderate](diabetes_level) diabetes.
+#     - What are my [vegan](meal_type) meal options for [morning snack](meal_time) on [Friday](day) if I have [mild](diabetes_level) diabetes?
+#     - Give me a [veg](meal_type) [lunch](meal_time) for [severe](diabetes_level) diabetes on [Saturday](day).
+#     - Suggest a [non-veg](meal_type) [breakfast](meal_time) for [mild](diabetes_level) diabetes on [Sunday](day).
+#     - I need a meal recommendation for a [vegan](meal_type) [mid_day_snack](meal_time) for my [moderate](diabetes_level) diabetes.
+#     - Can you tell me what I should eat for [lunch](meal_time) on [Monday](day) if I have [severe](diabetes_level) diabetes?
+#     - Suggest some [vegetarian](meal_type) meals for [mid_day_snack](meal_time) on [Friday](day).
+#     - Recommend something for my [mild](diabetes_level) diabetes that I can eat for [dinner](meal_time).
+#     - I'm looking for a [vegan](meal_type) option for [morning snack](meal_time) on [Tuesday](day).
+#     - What meals are best for [moderate](diabetes_level) diabetes during [breakfast](meal_time)?
+#     - Give me a food suggestion for [proliferative](diabetes_level) diabetes on [Thursday](day).
+
+# - intent: inform
+#   examples: |
+#     - I have [mild](diabetes_level) diabetes.
+#     - My diabetes level is [moderate](diabetes_level).
+#     - I have [severe](diabetes_level) diabetes.
+#     - I am diagnosed with [proliferative](diabetes_level) diabetes.
+#     - I have [no diabetes](diabetes_level).
+#     - My diabetes type is [mild](diabetes_level).
+#     - I want a [veg](meal_type) meal.
+#     - I prefer [non-veg](meal_type).
+#     - My preference is [vegan](meal_type).
+#     - Give me something for [breakfast](meal_time).
+#     - I need a meal for [lunch](meal_time).
+#     - Show me options for [dinner](meal_time).
+#     - What should I eat for [morning snack](meal_time)?
+#     - Provide options for a [mid_day_snack](meal_time).
+#     - Suggest some [veg](meal_type) meals for [lunch](meal_time).
+#     - Recommend a [non-veg](meal_type) meal for [breakfast](meal_time).
+#     - My preferred diet is [vegan](meal_type).
+#     - I want a [veg](meal_type) [dinner](meal_time).
+#     - Suggest some food for my [severe](diabetes_level) diabetes.
+#     - I am looking for a meal for my [moderate](diabetes_level) diabetes.
+#     - What are the best meal options for [proliferative](diabetes_level) diabetes?
+# version: "3.1"
+
+# nlu:
+# - intent: get_meal_recommendation
+#   examples: |
+#     - What should I eat for [breakfast](meal_time) on [Monday](day) if I have [mild_diabetic](diabetes_level)?
+#     - Suggest a [veg](meal_type) [lunch](meal_time) for [moderate_diabetic](diabetes_level) on [Tue](day).
+#     - Can you give me a [veg](meal_type) [dinner](meal_time) for [severe_diabetic](diabetes_level) on [Fri](day)?
+#     - Recommend a [non-veg](meal_type) [morning_snack](meal_time) for my [proliferative_diabetic](diabetes_level) on [Wednesday](day).
+#     - I have [moderate_diabetic](diabetes_level). What can I eat for [breakfast](meal_time) on [Sat](day)?
+#     - Give me a [vegan](meal_type) [mid_day_snack](meal_time) for [mild_diabetic](diabetes_level).
+#     - What is a good meal for a [veg](meal_type) [dinner](meal_time) if I have [mild_diabetic](diabetes_level) on [Sunday](day)?
+#     - Recommend a [vegan](meal_type) [lunch](meal_time) for [moderate_diabetic](diabetes_level).
+#     - What should I eat for [breakfast](meal_time) if I have [proliferative_diabetic](diabetes_level) on [Monday](day)?
+#     - I want a [veg](meal_type) [mid_day_snack](meal_time) for [severe_diabetic](diabetes_level) on [Tuesday](day).
+#     - Show me [non-veg](meal_type) options for [dinner](meal_time) on [Thursday](day) for [moderate_diabetic](diabetes_level).
+#     - What are my [vegan](meal_type) meal options for [morning_snack](meal_time) on [Friday](day) if I have [mild_diabetic](diabetes_level)?
+#     - Give me a [veg](meal_type) [lunch](meal_time) for [severe_diabetic](diabetes_level) on [Saturday](day).
+#     - Suggest a [non-veg](meal_type) [breakfast](meal_time) for [mild_diabetic](diabetes_level) on [Sunday](day).
+
+# - intent: inform
+#   examples: |
+#     - I have [mild_diabetic](diabetes_level).
+#     - My diabetes level is [moderate_diabetic](diabetes_level).
+#     - I have [severe_diabetic](diabetes_level).
+#     - I am diagnosed with [proliferative_diabetic](diabetes_level).
+#     - I have [no_diabetic](diabetes_level).
+#     - I want a [veg](meal_type) meal.
+#     - I prefer [non-veg](meal_type).
+#     - My preference is [vegan](meal_type).
+#     - I need a meal for [lunch](meal_time).
+#     - Show me options for [dinner](meal_time).
+#     - Provide options for a [mid_day_snack](meal_time).
+
+
+# - synonym: veg
+#   examples: |
+#     - vegetarian
+#     - veg
+#     - pure veg
+#     - only veg
+#     - plant-based but not vegan
+
+# - synonym: non-veg
+#   examples: |
+#     - non-vegetarian
+#     - non veg
+#     - meat-based
+#     - chicken or fish
+#     - includes eggs
+#     - protein-rich diet
+
+# - synonym: vegan
+#   examples: |
+#     - plant-based
+#     - dairy-free
+#     - pure vegan
+#     - no animal products
+
+# - synonym: breakfast
+#   examples: |
+#     - bf
+#     - morning meal
+#     - first meal
+#     - what to eat in morning
+
+# - synonym: morning_snack
+#   examples: |
+#     - morning snack
+#     - morning-snack
+#     - pre-lunch snack
+#     - early snack
+
+# - synonym: mid_day_snack
+#   examples: |
+#     - mid_day_snack
+#     - mid-day-snack
+#     - mid-day snack
+#     - afternoon snack
+#     - something light after lunch
+
+# - synonym: lunch
+#   examples: |
+#     - afternoon meal
+#     - midday meal
+#     - heavy meal
+
+# - synonym: dinner
+#   examples: |
+#     - night meal
+#     - last meal
+#     - before bedtime meal
+
+# - synonym: mild_diabetic
+#   examples: |
+#     - mild diabetes
+#     - mild
+#     - early-stage diabetes
+#     - prediabetes
+#     - slightly high sugar
+
+# - synonym: moderate_diabetic
+#   examples: |
+#     - moderate diabetes
+#     - mod
+#     - medium level diabetes
+#     - in control but needs care
+
+# - synonym: severe_diabetic
+#   examples: |
+#     - severe diabetes
+#     - high blood sugar level
+#     - critical diabetes
+#     - very high sugar
+
+# - synonym: proliferative_diabetic
+#   examples: |
+#     - proliferative diabetes
+#     - advanced stage diabetes
+#     - extreme diabetes
+#     - uncontrolled diabetes
+
+# - synonym: no_diabetic
+#   examples: |
+#     - normal
+#     - no diabetic
+#     - no diabeties
+#     - healthy sugar levels
+#     - blood sugar is fine
+
+# - intent: stop
+#   examples: |
+#     - stop
+#     - cancel
+#     - never mind
+#     - forget it
+#     - quit
+#     - exit
+#     - that's enough
+#     - I don't need this anymore
+#     - no need
+version: "3.1"
+
+nlu:
+  - intent: get_meal_recommendation
+    examples: |
+      - What should I eat for [breakfast](meal_time) on [Monday](day) if I have [mild_diabetic](diabetes_level)?
+      - Suggest a [veg](meal_type) [lunch](meal_time) for [moderate_diabetic](diabetes_level) on [Tue](day)
+      - Can you give me a [veg](meal_type) [dinner](meal_time) for [severe_diabetic](diabetes_level) on [Fri](day)?
+      - Recommend a [non-veg](meal_type) [morning_snack](meal_time) for my [proliferative_diabetic](diabetes_level) on [Wednesday](day)
+      - I have [moderate_diabetic](diabetes_level). What can I eat for [breakfast](meal_time) on [Sat](day)?
+      - Give me a [vegan](meal_type) [mid_day_snack](meal_time) for [mild_diabetic](diabetes_level)
+      - What is a good meal for a [veg](meal_type) [dinner](meal_time) if I have [mild_diabetic](diabetes_level) on [Sunday](day)?
+      - Recommend a [vegan](meal_type) [lunch](meal_time) for [moderate_diabetic](diabetes_level)
+      - What should I eat for [breakfast](meal_time) if I have [proliferative_diabetic](diabetes_level) on [Monday](day)?
+      - I want a [veg](meal_type) [mid_day_snack](meal_time) for [severe_diabetic](diabetes_level) on [Tuesday](day)
+      - Show me [non-veg](meal_type) options for [dinner](meal_time) on [Thursday](day) for [moderate_diabetic](diabetes_level)
+      - What can I eat for [breakfast](meal_time)?
+      - I need meal suggestions for [dinner](meal_time)
+      - What should I eat?
+      - Recommend me something to eat
+      - I'm looking for meal recommendations
+      - What food options do I have?
+      - Give me food suggestions
+
+  - intent: inform
+    examples: |
+      - I have [mild_diabetic](diabetes_level)
+      - My diabetes level is [moderate_diabetic](diabetes_level)
+      - I have [severe_diabetic](diabetes_level)
+      - I am diagnosed with [proliferative_diabetic](diabetes_level)
+      - I have [no_diabetic](diabetes_level)
+      - I want a [veg](meal_type) meal
+      - I prefer [non-veg](meal_type)
+      - My preference is [vegan](meal_type)
+      - I need a meal for [lunch](meal_time)
+      - Show me options for [dinner](meal_time)
+      - Provide options for a [mid_day_snack](meal_time)
+      - [Monday](day)
+      - [Tuesday](day)
+      - [Wednesday](day)
+      - [Thursday](day)
+      - [Friday](day)
+      - [Saturday](day)
+      - [Sunday](day)
+      - It's for [Monday](day)
+      - Planning for [Wednesday](day)
+
+  - intent: stop
+    examples: |
+      - stop
+      - cancel
+      - never mind
+      - forget it
+      - quit
+      - exit
+      - that's enough
+      - I don't need this anymore
+      - no need
+  - synonym: Monday
+    examples: |
+      - Mon
+      - first day of the week
+      - start of the week
+      - Monday morning
+
+  - synonym: Tuesday
+    examples: |
+      - Tue
+      - second day of the week
+      - after Monday
+
+  - synonym: Wednesday
+    examples: |
+      - Wed
+      - midweek
+      - hump day
+
+  - synonym: Thursday
+    examples: |
+      - Thu
+      - near weekend
+      - one day before Friday
+
+  - synonym: Friday
+    examples: |
+      - Fri
+      - last working day
+      - weekend starter
+
+  - synonym: Saturday
+    examples: |
+      - Sat
+      - weekend day
+      - Saturday night
+
+  - synonym: Sunday
+    examples: |
+      - Sun
+      - holiday
+      - lazy day
+      - weekend end
+
+
+  - synonym: veg
+    examples: |
+      - vegetarian
+      - veg
+      - pure veg
+      - only veg
+      - plant-based but not vegan
+
+  - synonym: non-veg
+    examples: |
+      - non-vegetarian
+      - non veg
+      - meat-based
+      - chicken or fish
+      - includes eggs
+      - protein-rich diet
+
+  - synonym: vegan
+    examples: |
+      - plant-based
+      - dairy-free
+      - pure vegan
+      - no animal products
+
+  - synonym: breakfast
+    examples: |
+      - bf
+      - morning meal
+      - first meal
+      - what to eat in morning
+
+  - synonym: morning_snack
+    examples: |
+      - morning snack
+      - morning-snack
+      - pre-lunch snack
+      - early snack
+
+  - synonym: mid_day_snack
+    examples: |
+      - mid_day_snack
+      - mid-day-snack
+      - mid-day snack
+      - afternoon snack
+      - something light after lunch
+
+  - synonym: lunch
+    examples: |
+      - afternoon meal
+      - midday meal
+      - heavy meal
+
+  - synonym: dinner
+    examples: |
+      - night meal
+      - last meal
+      - before bedtime meal
+
+  - synonym: mild_diabetic
+    examples: |
+      - mild diabetes
+      - mild
+      - early-stage diabetes
+      - prediabetes
+      - slightly high sugar
+
+  - synonym: moderate_diabetic
+    examples: |
+      - moderate diabetes
+      - mod
+      - medium level diabetes
+      - in control but needs care
+
+  - synonym: severe_diabetic
+    examples: |
+      - severe diabetes
+      - high blood sugar level
+      - critical diabetes
+      - very high sugar
+
+  - synonym: proliferative_diabetic
+    examples: |
+      - proliferative diabetes
+      - advanced stage diabetes
+      - extreme diabetes
+      - uncontrolled diabetes
+
+  - synonym: no_diabetic
+    examples: |
+      - normal
+      - no diabetic
+      - no diabeties
+      - healthy sugar levels
+      - blood sugar is fine
+# version: "3.1"
+
+# nlu:
+#   - intent: get_meal_recommendation
+#     examples: |
+#       - What should I eat for [breakfast](meal_time) on [Monday](day) if I have [mild_diabetic](diabetes_level)?
+#       - Suggest a [veg](meal_type) [lunch](meal_time) for [moderate_diabetic](diabetes_level) on [Tuesday](day)
+#       - Can you give me a [veg](meal_type) [dinner](meal_time) for [severe_diabetic](diabetes_level) on [Friday](day)?
+#       - Recommend a [non-veg](meal_type) [morning snack](meal_time) for my [proliferative](diabetes_level) on [Wednesday](day)
+#       - What can I eat for [mid_day_snack](meal_time) if I have [no_diabetic](diabetes_level)?
+#       - What's a good [vegan](meal_type) [breakfast](meal_time) for [severe_diabetic](diabetes_level)?
+#       - Can you suggest [dinner](meal_time) options for [proliferative](diabetes_level) diabetes?
+#       - I need [non-veg](meal_type) meal ideas for [lunch](meal_time)
+#       - What are healthy [morning snack](meal_time) options for [moderate_diabetic](diabetes_level)?
+#       - Show me [veg](meal_type) [dinner](meal_time) choices for [mild_diabetic](diabetes_level)
+#       - Give me [lunch](meal_time) suggestions for [Monday](day)
+#       - What should a [proliferative](diabetes_level) diabetic eat for [breakfast](meal_time)?
+#       - Recommend [non-veg](meal_type) options for [severe_diabetic](diabetes_level)
+#       - What's suitable for [mid_day_snack](meal_time) with [no_diabetic](diabetes_level)?
+#       - Show me [vegan](meal_type) choices for [dinner](meal_time)
+
+#   - intent: inform
+#     examples: |
+#       # Diabetes Level Information
+#       - I am [mild_diabetic](diabetes_level)
+#       - I have [moderate_diabetic](diabetes_level)
+#       - My diabetes is [severe_diabetic](diabetes_level)
+#       - I'm diagnosed with [proliferative](diabetes_level)
+#       - I'm [no_diabetic](diabetes_level)
+#       - my sugar level is [mild_diabetic](diabetes_level)
+#       - doctor says I have [severe_diabetic](diabetes_level)
+#       - recently diagnosed with [moderate_diabetic](diabetes_level)
+#       - I'm in the [proliferative](diabetes_level) stage
+#       - my diabetes is under control at [mild_diabetic](diabetes_level)
+
+#       # Meal Type Information
+#       - I want [veg](meal_type) food
+#       - looking for [non-veg](meal_type) options
+#       - prefer [vegan](meal_type) meals
+#       - I eat [non-veg](meal_type)
+#       - strictly [veg](meal_type)
+#       - only [vegan](meal_type) please
+#       - [non-veg](meal_type) diet
+#       - pure [veg](meal_type)
+#       - complete [vegan](meal_type)
+#       - [non-veg](meal_type) protein rich
+
+#       # Meal Time Information
+#       - for [breakfast](meal_time)
+#       - during [lunch](meal_time)
+#       - at [dinner](meal_time)
+#       - [morning snack](meal_time) time
+#       - [mid_day_snack](meal_time) options
+#       - early [morning snack](meal_time)
+#       - late [dinner](meal_time)
+#       - [breakfast](meal_time) menu
+#       - quick [lunch](meal_time)
+#       - light [mid_day_snack](meal_time)
+
+#       # Day Information
+#       - on [Monday](day)
+#       - for [Tuesday](day)
+#       - this [Wednesday](day)
+#       - coming [Thursday](day)
+#       - next [Friday](day)
+#       - every [Saturday](day)
+#       - on [Sunday](day)
+#       - [Monday](day) morning
+#       - [Tuesday](day) afternoon
+#       - [Wednesday](day) evening
+
+#   - intent: stop
+#     examples: |
+#       - stop
+#       - cancel
+#       - quit
+#       - exit
+#       - nevermind
+#       - forget it
+#       - that's enough
+#       - no thanks
+#       - not now
+#       - maybe later
+#       - I changed my mind
+#       - let's stop here
+#       - don't need this anymore
+#       - that's all for now
+
+#   - synonym: veg
+#     examples: |
+#       - vegetarian
+#       - pure veg
+#       - only veg
+#       - vegetable based
+#       - plant-based but not vegan
+#       - lacto vegetarian
+#       - veggie
+#       - no meat
+#       - veg only
+
+#   - synonym: non-veg
+#     examples: |
+#       - non-vegetarian
+#       - non veg
+#       - meat-based
+#       - chicken
+#       - fish
+#       - eggs
+#       - seafood
+#       - meat
+#       - non vegetarian
+#       - with meat
+
+#   - synonym: vegan
+#     examples: |
+#       - plant-based
+#       - dairy-free
+#       - pure vegan
+#       - no animal products
+#       - strictly vegan
+#       - complete vegan
+#       - only plants
+#       - no dairy
+#       - no eggs
+#       - no animal derived
+
+#   - synonym: breakfast
+#     examples: |
+#       - morning meal
+#       - first meal
+#       - early morning food
+#       - morning breakfast
+#       - breakfast time
+#       - bf
+#       - morning eating
+#       - dawn meal
+#       - sunrise meal
+
+#   - synonym: morning snack
+#     examples: |
+#       - pre-lunch snack
+#       - morning-snack
+#       - mid-morning snack
+#       - morning refreshment
+#       - early snack
+#       - before lunch snack
+#       - morning break
+#       - morning bites
+#       - morning munchies
+
+#   - synonym: lunch
+#     examples: |
+#       - midday meal
+#       - afternoon meal
+#       - noon meal
+#       - main meal
+#       - lunchtime
+#       - lunch hour
+#       - afternoon food
+#       - midday food
+#       - lunch break
+
+#   - synonym: mid_day_snack
+#     examples: |
+#       - afternoon snack
+#       - post-lunch snack
+#       - mid-afternoon snack
+#       - evening snack
+#       - tea time snack
+#       - mid day refreshment
+#       - between meals
+#       - light snack
+#       - after lunch snack
+
+#   - synonym: dinner
+#     examples: |
+#       - evening meal
+#       - night meal
+#       - supper
+#       - last meal
+#       - night food
+#       - evening food
+#       - dinner time
+#       - night dinner
+#       - late meal
+
+#   - synonym: no_diabetic
+#     examples: |
+#       - normal sugar
+#       - no diabetes
+#       - normal levels
+#       - healthy sugar
+#       - not diabetic
+#       - sugar is fine
+#       - normal blood sugar
+#       - no sugar problems
+#       - healthy levels
+#       - regular sugar
+
+#   - synonym: mild_diabetic
+#     examples: |
+#       - mild diabetes
+#       - early diabetes
+#       - borderline diabetes
+#       - slightly high sugar
+#       - pre-diabetic
+#       - early stage
+#       - controlled diabetes
+#       - mild sugar
+#       - beginning stage
+#       - initial diabetes
+
+#   - synonym: moderate_diabetic
+#     examples: |
+#       - moderate diabetes
+#       - medium diabetes
+#       - intermediate stage
+#       - type 2 controlled
+#       - middle stage
+#       - average diabetes
+#       - somewhat controlled
+#       - partially controlled
+#       - mid-level diabetes
+#       - medium sugar levels
+
+#   - synonym: severe_diabetic
+#     examples: |
+#       - severe diabetes
+#       - high diabetes
+#       - uncontrolled sugar
+#       - serious diabetes
+#       - high sugar levels
+#       - critical diabetes
+#       - advanced diabetes
+#       - poorly controlled
+#       - severe sugar
+#       - dangerous levels
+
+#   - synonym: proliferative
+#     examples: |
+#       - proliferative diabetes
+#       - advanced stage
+#       - end stage
+#       - complicated diabetes
+#       - very severe diabetes
+#       - extreme diabetes
+#       - worst stage
+#       - final stage
+#       - critical stage
+#       - progressive diabetes

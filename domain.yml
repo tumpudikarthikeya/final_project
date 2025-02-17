@@ -1,0 +1,78 @@
+version: "3.1"
+
+intents:
+  - get_meal_recommendation
+  - inform
+  - stop
+  - greet
+  - goodbye
+
+entities:
+  - diabetes_level
+  - day
+  - meal_type
+  - meal_time
+
+slots:
+  diabetes_level:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: diabetes_level  # ✅ Extracts from entity, not entire user input
+
+  day:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: day  # ✅ Extracts day correctly
+
+  meal_type:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: meal_type  # ✅ Extracts meal type
+
+  meal_time:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: meal_time  # ✅ Extracts meal time
+
+forms:
+  meal_recommendation_form:
+    required_slots:
+      - diabetes_level
+      - day
+      - meal_type
+      - meal_time
+
+responses:
+  utter_ask_diabetes_level:
+    - text: "What is your diabetes level? (No Diabetes, Mild, Moderate, Severe, Proliferative)"
+
+  utter_ask_day:
+    - text: "For which day do you need the meal recommendation?"
+
+  utter_ask_meal_type:
+    - text: "Do you prefer Vegetarian, Non-Vegetarian, or Vegan?"
+
+  utter_ask_meal_time:
+    - text: "Which meal are you looking for? (Breakfast, Morning Snack, Lunch, Mid-Day Snack, Dinner)"
+
+  utter_slots_values:
+    - text: |
+        Here is what I understood:
+        - Diabetes Level: {diabetes_level}
+        - Day: {day}
+        - Meal Type: {meal_type}
+        - Meal Time: {meal_time}
+
+  utter_greet:
+    - text: "Hello! How can I assist you today?"
+
+  utter_goodbye:
+    - text: "Goodbye! Have a great day!"
+
+actions:
+  - action_recommend_meal
+

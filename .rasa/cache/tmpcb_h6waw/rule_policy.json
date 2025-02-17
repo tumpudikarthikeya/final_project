@@ -1,0 +1,26 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"get_meal_recommendation\"}}]": "meal_recommendation_form",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"get_meal_recommendation\"}}, {\"active_loop\": {\"name\": \"meal_recommendation_form\"}, \"prev_action\": {\"action_name\": \"meal_recommendation_form\"}, \"user\": {\"intent\": \"get_meal_recommendation\"}}]": "action_listen",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"meal_recommendation_form\"}}]": "action_recommend_meal",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"meal_recommendation_form\"}}, {\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_recommend_meal\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"stop\"}}]": "utter_goodbye",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"stop\"}}, {\"prev_action\": {\"action_name\": \"utter_goodbye\"}, \"user\": {\"intent\": \"stop\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [
+      "meal_recommendation_form"
+    ],
+    "rules_for_loop_unhappy_path": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"meal_recommendation_form\"}, \"prev_action\": {\"action_name\": \"meal_recommendation_form\"}, \"user\": {\"intent\": \"get_meal_recommendation\"}}]": "do_not_predict_loop_action"
+    },
+    "rules_not_in_stories": [
+      "handling active loops and forms - meal_recommendation_form",
+      "predicting default action with intent restart",
+      "predicting default action with intent back",
+      "handling active loops and forms - meal_recommendation_form - action_listen",
+      "predicting default action with intent session_start"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJwtytEJgDAMRdFVMoATdBWREOpDCk0qbfSndHcr+ncvnLWPhfpZcbNET8UC9S/YRBHon5yaw6a9Guo0yeZ6oAPOCslcEYsqbJfXj7E9G+0i4A==": "meal_recommendation_form",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPbUkPjc1MSe+KDU5Pzc3NS8lEaS+loCpWLTEp+UX5ZJgQSwAaaNIiQ==": "action_recommend_meal",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPbUkPjc1MSe+KDU5Pzc3NS8lEaS+loCpWLTEp+UX5VLNAigHrglsBgmmxwIArZds4Q==": "action_listen"
+  }
+}

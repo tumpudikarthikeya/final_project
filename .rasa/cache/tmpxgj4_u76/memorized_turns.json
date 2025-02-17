@@ -1,0 +1,11 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJwtytEJgDAMRdFVMoATdBWREOpDCk0qbfSndHcr+ncvnLWPhfpZcbNET8UC9S/YRBHon5yaw6a9Guo0yeZ6oAPOCslcEYsqbJfXj7E9G+0i4A==": "utter_ask_diabetes_level",
+    "eJyVjVEKgCAQBa/iATqBV4lYtnqEpGvo6o9094z6j/7ewDBvbOdg2pFQiRd1UaxpzyDhAGte8C4rpLslI3XHSUe1ZoNSAHtKWGIIkJVv//yoFlUk4rzT6niGIpNHhf9xMF1sHUiM": "utter_ask_day",
+    "eJy1jcEJgDAQBFtJAVaQVkSOUxcJJhdJTkGCvRvRv/jwtwPDbFuOxpQlYSMe1EWxptyDhAOsecC7rJDqrhmpOk4qqjUTlALYU8IQQ4CMfPnHS3VVRSLOM42OeygyeWzwfxzw/qHanVRgab4=": "utter_ask_meal_type",
+    "eJy1jcsJgDAQRFtJAVaQVkSWVQcJJqskqyDB3o2fu3jwNgNv3tR5r0yeI1biTt0k1uQ7kHCANU/xLimksEtCLIyTUtWaAUoB7Cmim0KA9Hzy+4t1UUUkTiP1jlsoEnms8H8c8PaD9RrrNuODuzkAtnmNcg==": "utter_ask_meal_time",
+    "eJy1jUEKwzAMBL/iB+QF/koJQk2WImopwVYCweTvdZveSw++7cLs7K2eQ6hrxk48uSwWQ70CGSti+JYkxWGN3QpyY8Ra9RgecFJwooxpUYXN/ObPH9bNHZm4PGkWvsNRKGFH6nHARwfrZ+zHim5u0X/c4wvqi7ET": "action_recommend_meal",
+    "eJy1jVEKgzAQBa+SA/QEuUopy6qPEppdJVkFCd69qUp/i9D87cC82XvZbq5MCQtxb2FU78pxkLLAuxNiyAat7pyRqhO0onn3hJGAIyX0owh04I+//ajOZkjE+UVD4A6GTBELYosHvDao7mNbJzRrB/lf+4TvaG9cqD/ek3TVaw==": "action_listen"
+  }
+}

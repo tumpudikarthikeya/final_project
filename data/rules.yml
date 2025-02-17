@@ -1,0 +1,37 @@
+version: "3.1"
+
+rules:
+- rule: Activate meal recommendation form
+  steps:
+  - intent: get_meal_recommendation
+  - action: meal_recommendation_form
+  - active_loop: meal_recommendation_form
+
+- rule: Submit meal recommendation form
+  condition:
+  - active_loop: meal_recommendation_form
+  steps:
+  - action: meal_recommendation_form
+  - active_loop: null
+  - action: utter_slots_values  # ✅ Keep this step
+  - action: action_recommend_meal  # ✅ Ensure this is consistent
+
+- rule: Stop the form
+  condition:
+  - active_loop: meal_recommendation_form
+  steps:
+  - intent: stop
+  - action: utter_goodbye
+  - active_loop: null
+
+- rule: Greet the user
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- rule: Say goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+  - active_loop: null
+
