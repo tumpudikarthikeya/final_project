@@ -1,0 +1,14 @@
+# Use Rasa SDK image
+FROM rasa/rasa-sdk:3.5.2
+
+# Set working directory
+WORKDIR /app
+
+# Copy actions files
+COPY . /app
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Start action server
+CMD ["rasa", "run", "actions"]

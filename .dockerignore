@@ -1,0 +1,31 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+*.env
+
+# Ignore Rasa model files (optional, unless you want them inside the container)
+models/
+*.tar.gz
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.pid
+
+# Ignore Render & Docker files (optional)
+.dockerignore
+render.yaml
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Git-related files
+.git/
+.gitignore
