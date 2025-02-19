@@ -385,3 +385,430 @@
 ✅ Successfully loaded `in_data.json`
 ✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Monday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
 ✅ Final Response: For mild_diabetic diabetes on Monday, lunch (non-veg) options are: Grilled Chicken with Quinoa Salad, Fish Curry with Brown Rice, Chicken Biryani with Raita, Egg Curry with Whole Wheat Chapati, Mutton Curry with Jeera Rice.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, breakfast (veg) options are: Aloo Paratha with Low-fat Curd, Vegetable Semolina Upma, Poha with Sweet Corn, Masala Idli with Coconut Chutney, Methi Thepla.
+✅ Final Response: For no_diabetic diabetes on Monday, breakfast (veg) options are: Aloo Paratha with Low-fat Curd, Vegetable Semolina Upma, Poha with Sweet Corn, Masala Idli with Coconut Chutney, Methi Thepla.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: vegan, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Tuesday, lunch (vegan) options are: Chickpea and Spinach Stew with Rice, Tofu Stir-Fry with Vegetables, Lentil Soup with Quinoa, Vegetable and Brown Rice Bowl, Vegan Stuffed Peppers.
+✅ Final Response: For mild_diabetic diabetes on Tuesday, lunch (vegan) options are: Chickpea and Spinach Stew with Rice, Tofu Stir-Fry with Vegetables, Lentil Soup with Quinoa, Vegetable and Brown Rice Bowl, Vegan Stuffed Peppers.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: vegan, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Tuesday, lunch (vegan) options are: Chickpea and Spinach Stew with Rice, Tofu Stir-Fry with Vegetables, Lentil Soup with Quinoa, Vegetable and Brown Rice Bowl, Vegan Stuffed Peppers.
+✅ Final Response: For mild_diabetic diabetes on Tuesday, lunch (vegan) options are: Chickpea and Spinach Stew with Rice, Tofu Stir-Fry with Vegetables, Lentil Soup with Quinoa, Vegetable and Brown Rice Bowl, Vegan Stuffed Peppers.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: vegan, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: vegan, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: vegan, Meal Time: mid_day_snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for mid_day_snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: vegan, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: vegan, Meal Time: mid_day_snack
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For mild_diabetic diabetes on Tuesday, mid_day_snack (vegan) options are: Coconut Water with Chia Seeds, Roasted Pumpkin Seeds, Sliced Carrots with Hummus, Fruit Salad with Lime, Almond Milk Smoothie.
+✅ Final Response: For mild_diabetic diabetes on Tuesday, mid_day_snack (vegan) options are: Coconut Water with Chia Seeds, Roasted Pumpkin Seeds, Sliced Carrots with Hummus, Fruit Salad with Lime, Almond Milk Smoothie.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: mild_diabetic, Day: Tuesday, Meal Type: vegan, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal data found for snack on Tuesday.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: moderate, Day: Monday, Meal Type: vegan, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: moderate_diabetes, Day: Monday, Meal Type: vegan, Meal Time: snack
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: moderate_diabetes, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Final Response: ❌ No meal recommendations available for your request.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: moderate_diabetic, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For moderate_diabetic diabetes on Monday, lunch (veg) options are: Vegetable Khichdi, Brown Rice with Lauki (Bottle Gourd) Curry, Tofu and Vegetable Stir Fry, Methi Thepla, Moong Dal with Cabbage.
+✅ Final Response: For moderate_diabetic diabetes on Monday, lunch (veg) options are: Vegetable Khichdi, Brown Rice with Lauki (Bottle Gourd) Curry, Tofu and Vegetable Stir Fry, Methi Thepla, Moong Dal with Cabbage.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: vegan, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, lunch (vegan) options are: Mixed Vegetable Curry with Rice, Chickpea and Spinach Stew, Stir-fried Tofu with Quinoa, Lentil and Sweet Potato Dal with Rice, Barley and Vegetable Soup.
+✅ Final Response: For no_diabetic diabetes on Monday, lunch (vegan) options are: Mixed Vegetable Curry with Rice, Chickpea and Spinach Stew, Stir-fried Tofu with Quinoa, Lentil and Sweet Potato Dal with Rice, Barley and Vegetable Soup.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: vegan, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: {'status': 'success', 'message': 'For no_diabetic diabetes on Monday, lunch (vegan) options are: Mixed Vegetable Curry with Rice, Chickpea and Spinach Stew, Stir-fried Tofu with Quinoa, Lentil and Sweet Potato Dal with Rice, Barley and Vegetable Soup.', 'recommendations': ['Mixed Vegetable Curry with Rice', 'Chickpea and Spinach Stew', 'Stir-fried Tofu with Quinoa', 'Lentil and Sweet Potato Dal with Rice', 'Barley and Vegetable Soup']}
+✅ Final Response: {'status': 'success', 'message': 'For no_diabetic diabetes on Monday, lunch (vegan) options are: Mixed Vegetable Curry with Rice, Chickpea and Spinach Stew, Stir-fried Tofu with Quinoa, Lentil and Sweet Potato Dal with Rice, Barley and Vegetable Soup.', 'recommendations': ['Mixed Vegetable Curry with Rice', 'Chickpea and Spinach Stew', 'Stir-fried Tofu with Quinoa', 'Lentil and Sweet Potato Dal with Rice', 'Barley and Vegetable Soup']}
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: vegan, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: {'status': 'success', 'message': 'For no_diabetic diabetes on Monday, breakfast (vegan) options are: Vegan Banana Pancakes, Millet and Vegetable Porridge, Tofu Bhurji with Toast, Chia Seeds Pudding with Dates, Avocado Toast on Multigrain Bread.', 'recommendations': ['Vegan Banana Pancakes', 'Millet and Vegetable Porridge', 'Tofu Bhurji with Toast', 'Chia Seeds Pudding with Dates', 'Avocado Toast on Multigrain Bread']}
+✅ Final Response: {'status': 'success', 'message': 'For no_diabetic diabetes on Monday, breakfast (vegan) options are: Vegan Banana Pancakes, Millet and Vegetable Porridge, Tofu Bhurji with Toast, Chia Seeds Pudding with Dates, Avocado Toast on Multigrain Bread.', 'recommendations': ['Vegan Banana Pancakes', 'Millet and Vegetable Porridge', 'Tofu Bhurji with Toast', 'Chia Seeds Pudding with Dates', 'Avocado Toast on Multigrain Bread']}
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: {'status': 'success', 'message': 'For no_diabetic diabetes on Tuesday, lunch (veg) options are: Vegetable Kurma with Appam, Beetroot Paratha with Raita, Rajma Curry with Jeera Rice, Lemon Rice with Dal, Lauki Kofta with Roti.', 'recommendations': ['Vegetable Kurma with Appam', 'Beetroot Paratha with Raita', 'Rajma Curry with Jeera Rice', 'Lemon Rice with Dal', 'Lauki Kofta with Roti']}
+✅ Final Response: {'status': 'success', 'message': 'For no_diabetic diabetes on Tuesday, lunch (veg) options are: Vegetable Kurma with Appam, Beetroot Paratha with Raita, Rajma Curry with Jeera Rice, Lemon Rice with Dal, Lauki Kofta with Roti.', 'recommendations': ['Vegetable Kurma with Appam', 'Beetroot Paratha with Raita', 'Rajma Curry with Jeera Rice', 'Lemon Rice with Dal', 'Lauki Kofta with Roti']}
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, lunch (veg) options are: Vegetable Kurma with Appam, Beetroot Paratha with Raita, Rajma Curry with Jeera Rice, Lemon Rice with Dal, Lauki Kofta with Roti.
+✅ Final Response: For no_diabetic diabetes on Tuesday, lunch (veg) options are: Vegetable Kurma with Appam, Beetroot Paratha with Raita, Rajma Curry with Jeera Rice, Lemon Rice with Dal, Lauki Kofta with Roti.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, lunch (veg) options are: Vegetable Kurma with Appam, Beetroot Paratha with Raita, Rajma Curry with Jeera Rice, Lemon Rice with Dal, Lauki Kofta with Roti.
+✅ Final Response: For no_diabetic diabetes on Tuesday, lunch (veg) options are: Vegetable Kurma with Appam, Beetroot Paratha with Raita, Rajma Curry with Jeera Rice, Lemon Rice with Dal, Lauki Kofta with Roti.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice, Palak Kofta with Rice, Veg Pulao with Cashews, Ghee Rice with Dal Fry, Bisi Bele Bath.
+✅ Final Response: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice, Palak Kofta with Rice, Veg Pulao with Cashews, Ghee Rice with Dal Fry, Bisi Bele Bath.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice, Palak Kofta with Rice, Veg Pulao with Cashews, Ghee Rice with Dal Fry, Bisi Bele Bath.
+✅ Final Response: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice, Palak Kofta with Rice, Veg Pulao with Cashews, Ghee Rice with Dal Fry, Bisi Bele Bath.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice, Palak Kofta with Rice, Veg Pulao with Cashews, Ghee Rice with Dal Fry, Bisi Bele Bath.
+✅ Final Response: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice, Palak Kofta with Rice, Veg Pulao with Cashews, Ghee Rice with Dal Fry, Bisi Bele Bath.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+✅ Final Response: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: breakfast
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+✅ Final Response: For no_diabetic diabetes on Tuesday, breakfast (veg) options are: Masala Vermicelli
+Palak Paratha with Mint Chutney
+Vegetable Handvo
+Dal Cheela with Curd
+Daliya Upma.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+✅ Final Response: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+✅ Final Response: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, lunch (veg) options are: Vegetable Kurma with Appam
+Beetroot Paratha with Raita
+Rajma Curry with Jeera Rice
+Lemon Rice with Dal
+Lauki Kofta with Roti.
+✅ Final Response: For no_diabetic diabetes on Tuesday, lunch (veg) options are: Vegetable Kurma with Appam
+Beetroot Paratha with Raita
+Rajma Curry with Jeera Rice
+Lemon Rice with Dal
+Lauki Kofta with Roti.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+✅ Final Response: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+✅ Final Response: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Monday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+✅ Final Response: For no_diabetic diabetes on Monday, lunch (veg) options are: Paneer Butter Masala with Jeera Rice
+Palak Kofta with Rice
+Veg Pulao with Cashews
+Ghee Rice with Dal Fry
+Bisi Bele Bath.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, lunch (non-veg) options are: Chicken Curry with Rice
+Fish Fry with Tamarind Rice
+Prawns Biryani
+Mutton Keema with Naan
+Tandoori Chicken with Veggie Quinoa.
+✅ Final Response: For no_diabetic diabetes on Tuesday, lunch (non-veg) options are: Chicken Curry with Rice
+Fish Fry with Tamarind Rice
+Prawns Biryani
+Mutton Keema with Naan
+Tandoori Chicken with Veggie Quinoa.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, lunch (veg) options are: Vegetable Kurma with Appam
+Beetroot Paratha with Raita
+Rajma Curry with Jeera Rice
+Lemon Rice with Dal
+Lauki Kofta with Roti.
+✅ Final Response: For no_diabetic diabetes on Tuesday, lunch (veg) options are: Vegetable Kurma with Appam
+Beetroot Paratha with Raita
+Rajma Curry with Jeera Rice
+Lemon Rice with Dal
+Lauki Kofta with Roti.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: no_diabetic, Day: Tuesday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For no_diabetic diabetes on Tuesday, lunch (non-veg) options are: Chicken Curry with Rice
+Fish Fry with Tamarind Rice
+Prawns Biryani
+Mutton Keema with Naan
+Tandoori Chicken with Veggie Quinoa.
+✅ Final Response: For no_diabetic diabetes on Tuesday, lunch (non-veg) options are: Chicken Curry with Rice
+Fish Fry with Tamarind Rice
+Prawns Biryani
+Mutton Keema with Naan
+Tandoori Chicken with Veggie Quinoa.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Tuesday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Tuesday, lunch (non-veg) options are: Baked Mixed Vegetable Curry with Barley
+Amaranth and Spinach Ragi Mudde
+Soya Chunk Pulao with Spinach Raita
+Paneer Bhurji with Barley Roti
+Salmon with Masoor Dal.
+✅ Final Response: For severe_diabetic diabetes on Tuesday, lunch (non-veg) options are: Baked Mixed Vegetable Curry with Barley
+Amaranth and Spinach Ragi Mudde
+Soya Chunk Pulao with Spinach Raita
+Paneer Bhurji with Barley Roti
+Salmon with Masoor Dal.
+🔍 Action `action_recommend_meal` triggered!
+🔹 Extracted Slots - Diabetes Level: severe_diabetic, Day: Tuesday, Meal Type: non-veg, Meal Time: lunch
+✅ Successfully loaded `in_data.json`
+✅ Debug: Meal Recommendation Found: For severe_diabetic diabetes on Tuesday, lunch (non-veg) options are: Baked Mixed Vegetable Curry with Barley
+Amaranth and Spinach Ragi Mudde
+Soya Chunk Pulao with Spinach Raita
+Paneer Bhurji with Barley Roti
+Salmon with Masoor Dal.
+✅ Final Response: For severe_diabetic diabetes on Tuesday, lunch (non-veg) options are: Baked Mixed Vegetable Curry with Barley
+Amaranth and Spinach Ragi Mudde
+Soya Chunk Pulao with Spinach Raita
+Paneer Bhurji with Barley Roti
+Salmon with Masoor Dal.
