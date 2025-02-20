@@ -12,6 +12,7 @@ services:
     command: bash -c "rm -rf models/* && rasa train && rasa run --enable-api --cors \"*\" --debug"
     ports:
     - '5006:5005'
+    user : root
     networks:
     - all
 
@@ -26,11 +27,10 @@ services:
     command: ["rasa", "run", "actions"]
     ports:
     - '5055:5055'
+    user : root
     networks:
     - all
 
 networks:
   all:
     driver: bridge
-    driver_opts:
-      com.docker.network.enable_ipv6: "true"

@@ -53,6 +53,7 @@
 #         dispatcher.utter_message(text=response)
 #         return []
 import json
+import os
 from rasa_sdk import Action
 
 class ActionRecommendMeal(Action):
@@ -72,16 +73,19 @@ class ActionRecommendMeal(Action):
         # Log extracted slot values
         # with open("actions_log.txt", "a") as log_file:
         #     log_file.write(f"🔹 Extracted Slots - Diabetes Level: {diabetes_level}, Day: {day}, Meal Type: {meal_type}, Meal Time: {meal_time}\n")
+        # current_directory = os.getcwd()
+        # files_in_directory = os.listdir(current_directory)
+        # dispatcher.utter_message(f"{current_directory},{files_in_directory}")
 
         try:
-            with open("in_data.json") as file:
+            with open("actions/in_data.json") as file:
                 meals = json.load(file)
                 # with open("actions_log.txt", "a") as log_file:
                 #     log_file.write("✅ Successfully loaded `in_data.json`\n")
         except Exception as e:
             # with open("actions_log.txt", "a") as log_file:
             #     log_file.write(f"❌ Failed to load `in_data.json`. Error: {e}\n")
-            dispatcher.utter_message("Sorry, I couldn't retrieve meal recommendations right now.")
+            dispatcher.utter_message(f"Sorry, I couldn't retrieve meal recommendations right now.{e}")
             return []
 
         # Fetch meal recommendation
@@ -90,6 +94,7 @@ class ActionRecommendMeal(Action):
                 if meal_type in meals[diabetes_level][day][meal_time]:
                     meal_options = meals[diabetes_level][day][meal_time][meal_type]
                     meal_suggestions = "\n ".join(meal_options)
+                    print(meal_suggestions)
                     response = {
                         "status": "success",
                         "message": f"For {diabetes_level} diabetes on {day}, {meal_time} ({meal_type}) options are: {meal_suggestions}."
