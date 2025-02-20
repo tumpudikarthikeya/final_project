@@ -1,20 +1,22 @@
-# Use the official Rasa image
-FROM rasa/rasa:3.6.2
+FROM python:3.9 AS BASE
 
-# Set the working directory
+RUN apt-get update \
+    && apt-get --assume-yes --no-install-recommends install \
+        build-essential \
+        curl \
+        git \
+        jq \
+        libgomp1 \
+        vim
+
 WORKDIR /app
 
-# Copy project files
-COPY . /app
+# upgrade pip version
+RUN pip install --no-cache-dir --upgrade pip
 
-# Install additional dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install rasa
 
-# Train the model (optional)
-RUN rasa train
-
-# Expose port for Rasa API
-EXPOSE 5005
-
-# Start Rasa server
-CMD ["rasa", "run", "--enable-api", "--cors", "*"]
+ADD config.yml config.yml
+ADD domain.yml domain.yml
+ADD credentials.yml credentials.yml
+ADD endpoints.yml endpoints.yml

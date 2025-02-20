@@ -61,8 +61,8 @@ class ActionRecommendMeal(Action):
 
     def run(self, dispatcher, tracker, domain):
         # Open file in append mode and write logs manually
-        with open("actions_log.txt", "a") as log_file:
-            log_file.write("🔍 Action `action_recommend_meal` triggered!\n")
+        # with open("actions_log.txt", "a") as log_file:
+        #     log_file.write("🔍 Action `action_recommend_meal` triggered!\n")
 
         diabetes_level = tracker.get_slot("diabetes_level")
         day = tracker.get_slot("day")
@@ -70,17 +70,17 @@ class ActionRecommendMeal(Action):
         meal_time = tracker.get_slot("meal_time")
 
         # Log extracted slot values
-        with open("actions_log.txt", "a") as log_file:
-            log_file.write(f"🔹 Extracted Slots - Diabetes Level: {diabetes_level}, Day: {day}, Meal Type: {meal_type}, Meal Time: {meal_time}\n")
+        # with open("actions_log.txt", "a") as log_file:
+        #     log_file.write(f"🔹 Extracted Slots - Diabetes Level: {diabetes_level}, Day: {day}, Meal Type: {meal_type}, Meal Time: {meal_time}\n")
 
         try:
             with open("in_data.json") as file:
                 meals = json.load(file)
-                with open("actions_log.txt", "a") as log_file:
-                    log_file.write("✅ Successfully loaded `in_data.json`\n")
+                # with open("actions_log.txt", "a") as log_file:
+                #     log_file.write("✅ Successfully loaded `in_data.json`\n")
         except Exception as e:
-            with open("actions_log.txt", "a") as log_file:
-                log_file.write(f"❌ Failed to load `in_data.json`. Error: {e}\n")
+            # with open("actions_log.txt", "a") as log_file:
+            #     log_file.write(f"❌ Failed to load `in_data.json`. Error: {e}\n")
             dispatcher.utter_message("Sorry, I couldn't retrieve meal recommendations right now.")
             return []
 
@@ -94,8 +94,8 @@ class ActionRecommendMeal(Action):
                         "status": "success",
                         "message": f"For {diabetes_level} diabetes on {day}, {meal_time} ({meal_type}) options are: {meal_suggestions}."
                     }
-                    with open("actions_log.txt", "a") as log_file:
-                        log_file.write(f"✅ Debug: Meal Recommendation Found: {response['message']}\n")
+                    # with open("actions_log.txt", "a") as log_file:
+                    #     log_file.write(f"✅ Debug: Meal Recommendation Found: {response['message']}\n")
                 else:
                     response = {
                         "status": "error",
@@ -113,8 +113,8 @@ class ActionRecommendMeal(Action):
             }
 
         # Log final response
-        with open("actions_log.txt", "a") as log_file:
-            log_file.write(f"✅ Final Response: {response['message']}\n")
+        # with open("actions_log.txt", "a") as log_file:
+        #     log_file.write(f"✅ Final Response: {response['message']}\n")
 
         # Send structured response to the frontend
         dispatcher.utter_message(text=response["message"])
