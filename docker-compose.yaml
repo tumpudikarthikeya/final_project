@@ -2,7 +2,7 @@ version: '3.4'
 services:
 
   rasa-server:
-    image: rasa-bot:latest
+    image: karthikeyatumpudi/raasa-bot:latest
     working_dir: /app
     build: "./"
     restart: always
@@ -17,7 +17,7 @@ services:
     - all
 
   rasa-actions-server:
-    image: rasa-bot:latest
+    image: karthikeyatumpudi/raasa-actions:latest
     working_dir: /app
     build: "./"
     restart: always
